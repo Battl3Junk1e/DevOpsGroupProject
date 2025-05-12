@@ -2,7 +2,6 @@ from datetime import datetime
 import os, fnmatch
 
 SQL_VIEW = (
-
 """USE [WideWorldImporters]
 GO
 
