@@ -36,6 +36,11 @@ def phoneCleanUp():
     input("Press key to continue")
     return
 
+def importersView():
+    print(" ")
+    input("Press key to continue")
+    return
+
 # Create the menu
 #menu = ConsoleMenu("Stefans AB", "All Data Things")
 menu = ConsoleMenu(pyfiglet.figlet_format("Stefans AB"), "All Data Things")
@@ -60,9 +65,14 @@ bilderActionSubMenu.append_item( FunctionItem("Storlekskontroll", bildStorleksKo
 bilderActionSubMenu.append_item( FunctionItem("Kopiera till backup", bildCopyToBackup) )
 submenu_item2 = SubmenuItem("Bilder", bilderActionSubMenu, menu)
 
+bilderActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Importers"), "Actions",exit_option_text="Back")
+bilderActionSubMenu.append_item( FunctionItem("Hämta fakturasiffror", bildRapport) )
+submenu_item3 = SubmenuItem("Importers", bilderActionSubMenu, menu)
+
 # Once we're done creating them, we just add the items to the menu
 menu.append_item(submenu_item)
 menu.append_item(submenu_item2)
+menu.append_item(submenu_item3)
 
 
 
