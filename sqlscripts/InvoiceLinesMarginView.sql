@@ -1,6 +1,9 @@
 USE [WideWorldImporters]
 GO
 
+DROP VIEW IF EXISTS dbo.InvoiceLineMargins;
+GO
+
 CREATE VIEW dbo.InvoiceLineMargins
 AS
     SELECT 
