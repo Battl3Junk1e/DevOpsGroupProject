@@ -4,6 +4,23 @@ from consolemenu.items import *
 from consolemenu.prompt_utils import *
 from colors import color
 import pyfiglet
+import pyodbc
+
+#Host Wide World Importers Locally, check for the correct connection string and driver
+#Only works with Windows Authentication and the ODBC Driver 17 for SQL Server
+#Install the ODBC Driver 17 for SQL Server from https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server
+
+conn_str = (
+    "DRIVER={ODBC Driver 17 for SQL Server};"
+    "SERVER=localhost;"
+    "DATABASE=WideWorldImporters;"
+    "Trusted_Connection=yes;"
+    "Encrypt=yes;"
+    "TrustServerCertificate=yes;"
+)
+
+cnxn = pyodbc.connect(conn_str)
+cursor = cnxn.cursor()
 
 def bildRapport():
     print("Report")
@@ -36,9 +53,18 @@ def phoneCleanUp():
     input("Press key to continue")
     return
 
+#Install InvoiceLineMarginsView on Wide World Importers Database before running this
 def importersView():
-    print(" ")
+    print("Wide World Importers - Invoice Informations")
     input("Press key to continue")
+    cursor.execute("SELECT TOP 200 * FROM dbo.InvoiceLineMargins ORDER BY InvoiceID ASC")
+    headers = [col[0] for col in cursor.description]
+    print(headers)
+    for row in cursor:
+        print(row.InvoiceID, row.CustomerName, row.InvoiceDate, row.Description, row.LineProfit)
+    input("Top 200 Orderlines - Press key to continue")       
+    cursor.close()
+    cnxn.close()
     return
 
 # Create the menu
@@ -65,9 +91,9 @@ bilderActionSubMenu.append_item( FunctionItem("Storlekskontroll", bildStorleksKo
 bilderActionSubMenu.append_item( FunctionItem("Kopiera till backup", bildCopyToBackup) )
 submenu_item2 = SubmenuItem("Bilder", bilderActionSubMenu, menu)
 
-bilderActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Importers"), "Actions",exit_option_text="Back")
-bilderActionSubMenu.append_item( FunctionItem("Hämta fakturasiffror", bildRapport) )
-submenu_item3 = SubmenuItem("Importers", bilderActionSubMenu, menu)
+ImportersActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Importers"), "Actions",exit_option_text="Back")
+ImportersActionSubMenu.append_item( FunctionItem("Hämta fakturasiffror", importersView) )
+submenu_item3 = SubmenuItem("Importers", ImportersActionSubMenu, menu)
 
 # Once we're done creating them, we just add the items to the menu
 menu.append_item(submenu_item)
