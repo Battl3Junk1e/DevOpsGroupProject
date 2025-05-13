@@ -1,3 +1,4 @@
+#Python file created to fetch the base file of a phone list from our customers through a HTTP request.
 import requests
 
 url = "https://axmjqhyyjpat.objectstorage.eu-amsterdam-1.oci.customer-oci.com/n/axmjqhyyjpat/b/schoolbusiness-sharedfiles/o/profiles1.csv"
