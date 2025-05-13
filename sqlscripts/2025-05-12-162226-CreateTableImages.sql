@@ -1,0 +1,18 @@
+IF NOT EXISTS (
+    SELECT 1 FROM INFORMATION_SCHEMA.TABLES
+    WHERE TABLE_NAME = 'Images' AND TABLE_SCHEMA = 'Application'
+)
+BEGIN
+    CREATE TABLE Images(
+        ID INT PRIMARY KEY IDENTITY(1,1),
+        Img_Name VARCHAR(20) NOT NULL,
+        Img_Data VARBINARY(MAX) NOT NULL,
+        Img_Hash NVARCHAR(64) NOT NULL,
+        Created_At DATETIME DEFAULT GETDATE() NOT NULL,
+	);
+	PRINT 'Table created';
+END
+ELSE
+BEGIN
+	PRINT 'Something went wrong';
+END
