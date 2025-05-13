@@ -22,7 +22,7 @@ AS
 )
 
 def filename():    
-    date = str(datetime.now().strftime("%Y-%m-%d-%H-%M-%S"))    
+    date = str(datetime.now().strftime("%Y-%m-%d-%H%M%S"))    
     return (date + "-CreateInvoiceLineMargins.sql")
 
 def main():
