@@ -10,7 +10,12 @@ def fetch_file():
     file_path = os.path.join(folder_name, file_name)
     
     if os.path.exists(file_path):
-        return "File already exists in the exports folder."
+        answer = input("File already exists. Do you want to overwrite it? (y/n): ").strip().lower()
+        if answer == 'y':
+            os.remove(file_path)
+            print("Old file removed.")
+        else:
+            return "Download canceled by user."
     
     response = requests.get(url)
 
