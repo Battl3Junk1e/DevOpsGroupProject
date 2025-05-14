@@ -1,19 +1,15 @@
 import csv
 import requests
+import os
+import fetch_phone_list
 
 # Creates function to use in main file
 def SwedishPhoneList():
-    url = "https://axmjqhyyjpat.objectstorage.eu-amsterdam-1.oci.customer-oci.com/n/axmjqhyyjpat/b/schoolbusiness-sharedfiles/o/profiles1.csv"
-    response = requests.get(url)
-
-    if response.status_code == 200:
-        with open("profiles1.csv", "wb") as f:
-            f.write(response.content)
-        print("CSV file downloaded successfully.")
-    else:
-        print(f"Failed to download CSV: {response.status_code}")
-        return
-
+    filepath = "export/phonelists.csv"
+    if not os.path.exists(filepath):
+        print (f"file not found: {filepath}")
+        print ("Please run the phoneGetFile first to download the CSV file.")
+        return []
     # Open/Read the CSV File
     with open("profiles1.csv", encoding="utf-8") as csvfile:
         reader = csv.reader(csvfile)
@@ -28,12 +24,9 @@ def SwedishPhoneList():
         land_idx = headers.index("Country")
 
         print("\nSwedish telephone numbers:")
-
+        SwedishList = []
         # Loop through each row and filter for Swedish contacts
         for row in reader:
             if row[land_idx] == "Sverige":
-                print(f"Name: {row[firstname_idx]}, Last Name: {row[lastname_idx]}, Phone: {row[tel_idx]}, Country: {row[land_idx]}")
-
-
-if __name__ == "__main__":
-    SwedishPhoneNumbers()
+                SwedishList.append(f"Name: {row[firstname_idx]}, Last Name: {row[lastname_idx]}, Phone: {row[tel_idx]}, Country: {row[land_idx]}")
+    return SwedishList
