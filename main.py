@@ -4,6 +4,7 @@ from consolemenu.prompt_utils import *
 from colors import color
 from fetch_phone_list import fetch_file
 import pyfiglet
+import SwedishPhoneNumbers
 import pyodbc
 
 
@@ -49,6 +50,12 @@ def phoneCleanUp():
     input("Press key to continue")
     return
 
+def SwedishPhoneList():
+    print("Swedish telephone numbers:")
+    SwedishPhoneNumbers.SwedishPhoneList()
+    input("Press key to continue")
+    return
+
 def importersView():
     cnxn = pyodbc.connect(conn_str)
     cursor = cnxn.cursor()
@@ -72,6 +79,7 @@ telefonListaActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Telefonlista"), 
 telefonListaActionSubMenu.append_item( FunctionItem("Hämta grundfil", phoneGetFile) )
 telefonListaActionSubMenu.append_item( FunctionItem("Rensa data", phoneCleanData) )
 telefonListaActionSubMenu.append_item( FunctionItem("Clean up", phoneCleanUp) )
+telefonListaActionSubMenu.append_item( FunctionItem("Swedish Phone Numbers", SwedishPhoneList) )
 submenu_item = SubmenuItem("Telefonlista", telefonListaActionSubMenu, menu)
 
 
