@@ -4,8 +4,7 @@ from consolemenu.prompt_utils import *
 from colors import color
 import pyfiglet
 import pyodbc
-import fetch_phone_list
-import SwedishPhoneNumbers
+
 
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
@@ -35,7 +34,6 @@ def bildCopyToBackup():
 def phoneGetFile():
     print(" Getting the file")
     input("Press key to continue")
-    fetch_phone_list.Phone()
     return
 
 def phoneCleanData():
@@ -46,12 +44,6 @@ def phoneCleanData():
     
 def phoneCleanUp():
     print(" ")
-    input("Press key to continue")
-    return
-
-def SwedishPhoneList():
-    print("Swedish telephone numbers:")
-    SwedishPhoneNumbers.SwedishPhoneList()
     input("Press key to continue")
     return
 
@@ -78,7 +70,6 @@ telefonListaActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Telefonlista"), 
 telefonListaActionSubMenu.append_item( FunctionItem("Hämta grundfil", phoneGetFile) )
 telefonListaActionSubMenu.append_item( FunctionItem("Rensa data", phoneCleanData) )
 telefonListaActionSubMenu.append_item( FunctionItem("Clean up", phoneCleanUp) )
-telefonListaActionSubMenu.append_item( FunctionItem("Swedish Phone Numbers", SwedishPhoneList) )
 submenu_item = SubmenuItem("Telefonlista", telefonListaActionSubMenu, menu)
 
 
