@@ -2,6 +2,7 @@ from consolemenu import *
 from consolemenu.items import *
 from consolemenu.prompt_utils import *
 from colors import color
+from fetch_phone_list import fetch_file
 import pyfiglet
 import pyodbc
 
@@ -32,7 +33,8 @@ def bildCopyToBackup():
     return
 
 def phoneGetFile():
-    print(" Getting the file")
+    message = fetch_file()
+    print(message)
     input("Press key to continue")
     return
 
