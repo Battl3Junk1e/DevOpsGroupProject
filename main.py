@@ -1,7 +1,7 @@
 from consolemenu import *
 from consolemenu.items import *
 from consolemenu.prompt_utils import *
-#from colors import color
+from colors import color
 import pyfiglet
 import pyodbc
 from importers import *
@@ -83,7 +83,6 @@ submenu_item2 = SubmenuItem("Bilder", bilderActionSubMenu, menu)
 
 ImportersActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Importers"), "Actions",exit_option_text="Back")
 ImportersActionSubMenu.append_item( FunctionItem("Hämta fakturasiffror", importersView) )
-#ImportersActionSubMenu.append_item(FunctionItem("Visa kolumner i People-tabellen", show_person_table_columns))
 ImportersActionSubMenu.append_item(FunctionItem("Skapa ny Person", create_new_person))
 ImportersActionSubMenu.append_item(FunctionItem("Visa alla personer", show_all_people))
 submenu_item3 = SubmenuItem("Importers", ImportersActionSubMenu, menu)
