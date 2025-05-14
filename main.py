@@ -4,7 +4,8 @@ from consolemenu.prompt_utils import *
 from colors import color
 import pyfiglet
 import pyodbc
-
+import fetch_phone_list
+from SwedishPhoneNumbers import SomeClassOrFunction
 
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
@@ -34,6 +35,7 @@ def bildCopyToBackup():
 def phoneGetFile():
     print(" Getting the file")
     input("Press key to continue")
+    fetch_phone_list.Phone()
     return
 
 def phoneCleanData():
@@ -45,6 +47,12 @@ def phoneCleanData():
 def phoneCleanUp():
     print(" ")
     input("Press key to continue")
+    return
+
+def SwedishPhoneList():
+    print("Swedish telephone numbers:")
+    input("Press key to continue")
+    SwedishPhoneNumbers.SwedishPhoneList()
     return
 
 def importersView():

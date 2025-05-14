@@ -1,0 +1,39 @@
+import csv
+import requests
+
+# Creates function to use in main file
+def SwedishPhoneList():
+    url = "https://axmjqhyyjpat.objectstorage.eu-amsterdam-1.oci.customer-oci.com/n/axmjqhyyjpat/b/schoolbusiness-sharedfiles/o/profiles1.csv"
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        with open("profiles1.csv", "wb") as f:
+            f.write(response.content)
+        print("CSV file downloaded successfully.")
+    else:
+        print(f"Failed to download CSV: {response.status_code}")
+        return
+
+    # Open/Read the CSV File
+    with open("profiles1.csv", encoding="utf-8") as csvfile:
+        reader = csv.reader(csvfile)
+
+        # Get the relevant headers
+        headers = next(reader)
+
+        # Find indexes of relevant columns
+        firstname_idx = headers.index("Givenname")
+        lastname_idx = headers.index("Surname") 
+        tel_idx = headers.index("Telephone")
+        land_idx = headers.index("Country")
+
+        print("\nSwedish telephone numbers:")
+
+        # Loop through each row and filter for Swedish contacts
+        for row in reader:
+            if row[land_idx] == "Sverige":
+                print(f"Name: {row[firstname_idx]}, Last Name: {row[lastname_idx]}, Phone: {row[tel_idx]}, Country: {row[land_idx]}")
+
+
+if __name__ == "__main__":
+    SwedishPhoneNumbers()
