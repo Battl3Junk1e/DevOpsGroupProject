@@ -1,13 +1,15 @@
-# Import the necessary packages
 from consolemenu import *
 from consolemenu.items import *
 from consolemenu.prompt_utils import *
 from colors import color
+from fetch_phone_list import fetch_file
 import pyfiglet
 import pyodbc
 import os
 import hashlib
 import check_img_db
+import SwedishPhoneNumbers
+import pyodbc
 
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
@@ -17,7 +19,6 @@ conn_str = (
     "Encrypt=yes;"
     "TrustServerCertificate=yes;"
 )
-
 
 def bildRapport():
     print("Report")
@@ -35,7 +36,8 @@ def bildCopyToBackup():
     return
 
 def phoneGetFile():
-    print(" Getting the file")
+    message = fetch_file()
+    print(message)
     input("Press key to continue")
     return
 
@@ -72,26 +74,37 @@ def bildtilldb():
 
     cnxn.commit()
     cursor.close()
+    cnxn.close()           
+
+def SwedishPhoneList():
+    print("Swedish telephone numbers:")
+    SwedishPhoneNumbers.SwedishPhoneList()
+    input("Press key to continue")
+    return
+
+def importersView():
+    cnxn = pyodbc.connect(conn_str)
+    cursor = cnxn.cursor()
+    print("Wide World Importers - Invoice Informations")
+    input("Press key to continue")
+    cursor.execute("SELECT TOP 200 * FROM dbo.InvoiceLineMargins ORDER BY InvoiceID ASC")
+    headers = [col[0] for col in cursor.description]
+    print(headers)
+    for row in cursor:
+        print(row.InvoiceID, row.CustomerName, row.InvoiceDate, row.Description, row.LineProfit)
+    input("Top 200 Orderlines - Press key to continue")       
+    cursor.close()
     cnxn.close()
+    return
 
-            
-
-# Create the menu
-#menu = ConsoleMenu("Stefans AB", "All Data Things")
 menu = ConsoleMenu(pyfiglet.figlet_format("Stefans AB"), "All Data Things")
-
-# Create some items
-
-# MenuItem is the base class for all items, it doesn't do anything when selected
-#menu_item = MenuItem(color("Telefonlista",fg="green"))
-
 
 telefonListaActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Telefonlista"), "Actions",exit_option_text="Back")
 telefonListaActionSubMenu.append_item( FunctionItem("Hämta grundfil", phoneGetFile) )
 telefonListaActionSubMenu.append_item( FunctionItem("Rensa data", phoneCleanData) )
 telefonListaActionSubMenu.append_item( FunctionItem("Clean up", phoneCleanUp) )
+telefonListaActionSubMenu.append_item( FunctionItem("Swedish Phone Numbers", SwedishPhoneList) )
 submenu_item = SubmenuItem("Telefonlista", telefonListaActionSubMenu, menu)
-
 
 bilderActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Bilder"), "Actions",exit_option_text="Back")
 bilderActionSubMenu.append_item( FunctionItem("Generera thumbnails", bildRapport) )
@@ -101,12 +114,13 @@ bilderActionSubMenu.append_item( FunctionItem("Kopiera till backup", bildCopyToB
 bilderActionSubMenu.append_item( FunctionItem("Ladda upp bilder till DB", bildtilldb) ) 
 submenu_item2 = SubmenuItem("Bilder", bilderActionSubMenu, menu)
 
-# Once we're done creating them, we just add the items to the menu
+ImportersActionSubMenu = ConsoleMenu(pyfiglet.figlet_format("Importers"), "Actions",exit_option_text="Back")
+ImportersActionSubMenu.append_item( FunctionItem("Hämta fakturasiffror", importersView) )
+submenu_item3 = SubmenuItem("Importers", ImportersActionSubMenu, menu)
+
 menu.append_item(submenu_item)
 menu.append_item(submenu_item2)
+menu.append_item(submenu_item3)
 
-
-
-# Finally, we call show to show the menu and allow the user to interact
 
 menu.show()
