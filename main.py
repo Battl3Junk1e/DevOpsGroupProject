@@ -4,6 +4,20 @@ from consolemenu.items import *
 from consolemenu.prompt_utils import *
 from colors import color
 import pyfiglet
+import pyodbc
+import os
+import hashlib
+import check_img_db
+
+conn_str = (
+    "DRIVER={ODBC Driver 17 for SQL Server};"
+    "SERVER=localhost;"
+    "DATABASE=WideWorldImporters;"
+    "Trusted_Connection=yes;"
+    "Encrypt=yes;"
+    "TrustServerCertificate=yes;"
+)
+
 
 def bildRapport():
     print("Report")
@@ -36,6 +50,32 @@ def phoneCleanUp():
     input("Press key to continue")
     return
 
+def bildtilldb():
+
+    cnxn = pyodbc.connect(conn_str)
+    cursor = cnxn.cursor()
+    folder_path = "./images"
+
+    current_imgs = check_img_db.check_img_in_db()
+
+    for file in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file)
+
+        with open(file_path, "rb") as f:
+            binary = f.read()
+            hashed = hashlib.sha256(binary).hexdigest()
+            
+        if hashed in current_imgs:
+            print("Skipping, image already in db")
+        else:
+            cursor.execute("INSERT INTO Images( Img_Name, Img_Data, Img_Hash, Created_At) VALUES (?,?,?,GETDATE())", (file, binary, hashed))
+
+    cnxn.commit()
+    cursor.close()
+    cnxn.close()
+
+            
+
 # Create the menu
 #menu = ConsoleMenu("Stefans AB", "All Data Things")
 menu = ConsoleMenu(pyfiglet.figlet_format("Stefans AB"), "All Data Things")
@@ -58,6 +98,7 @@ bilderActionSubMenu.append_item( FunctionItem("Generera thumbnails", bildRapport
 bilderActionSubMenu.append_item( FunctionItem("Bildrapport", bildRapport) )
 bilderActionSubMenu.append_item( FunctionItem("Storlekskontroll", bildStorleksKontroll) )
 bilderActionSubMenu.append_item( FunctionItem("Kopiera till backup", bildCopyToBackup) )
+bilderActionSubMenu.append_item( FunctionItem("Ladda upp bilder till DB", bildtilldb) ) 
 submenu_item2 = SubmenuItem("Bilder", bilderActionSubMenu, menu)
 
 # Once we're done creating them, we just add the items to the menu
