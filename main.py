@@ -4,7 +4,6 @@ from consolemenu.prompt_utils import *
 from colors import color
 from fetch_phone_list import fetch_file
 import pyfiglet
-import pyodbc
 from importers import *
 from Phone_Rensa import *
 import os
@@ -12,6 +11,7 @@ import hashlib
 import check_img_db
 import SwedishPhoneNumbers
 
+import pyodbc
 
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
