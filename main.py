@@ -5,10 +5,12 @@ from colors import color
 from fetch_phone_list import fetch_file
 import pyfiglet
 from importers import *
+from Phone_Rensa import *
 import os
 import hashlib
 import check_img_db
 import SwedishPhoneNumbers
+
 import pyodbc
 
 conn_str = (
@@ -42,9 +44,15 @@ def phoneGetFile():
     return
 
 def phoneCleanData():
-    print(" ")
-    input("Press key to continue")
-    return
+    from Phone_Rensa import clean_phone_data
+    print("=" * 50)
+    print("Cleaning data in phonelists.csv ...\n")
+    
+    result = clean_phone_data()
+
+    print(result)  # Print result
+    print("\nRensning completed. Press any key to return to menu.")
+    input()
     
     
 def phoneCleanUp():
