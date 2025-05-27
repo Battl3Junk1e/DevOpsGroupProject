@@ -1,4 +1,4 @@
-USE [WideWorldImporters]
+USE WideWorldImporters
 GO
 
 DROP VIEW IF EXISTS dbo.InvoiceLineMargins;
