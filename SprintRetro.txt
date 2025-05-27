@@ -1,0 +1,11 @@
+Sprint Retrospective – DevOps Pipeline Project
+
+What went well:
+We communicated effectively through regular Discord meetings and managed to split the tasks fairly among team members. 
+Everyone contributed equally, and we made steady progress throughout the sprint. Working with GitHub repositories was smooth thanks to good collaboration and support within the team.
+
+What could have gone better:
+It was some of our first times using GitHub, so there was a bit of a learning curve at the start. However, the team was helpful and guided me through the process, which made it easier to get on track.
+
+Future improvements:
+In future sprints, we could document our work on GitHub workflows more clearly, for example "commit" messages can be clearer. This would improve readability for outside users and reviewers.
