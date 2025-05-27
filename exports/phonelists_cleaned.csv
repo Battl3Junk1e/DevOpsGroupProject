@@ -1,0 +1,505 @@
+Givenname,Surname,Streetaddress,City,Zipcode,Country,CountryCode,NationalId,TelephoneCountryCode,Telephone,Birthday,ConsentToContact
+Eva,Åström,Nyvägen 371,Eskilstuna,84599,Sverige,SE,19950626-6866,46,08-878 257 74,1995-06-26,True
+Johan,Hansson,Ekvägen 2,Trelleborg,51551,Sverige,SE,19530620-8588,46,08-42 92 45,1953-06-20,True
+Sara,Bergman,Parkstigen 624,Helsingborg,95339,Sverige,SE,19501005-3825,46,08-280 84 46,1950-10-05,True
+Hans,Petersson,Skolvägen 5,Kristianstad,89502,Sverige,SE,19730522-4128,46,08-447 90 59,1973-05-22,True
+Marie,Eriksson,Villagränd 746,Östersund,88584,Sverige,SE,19940923-6798,46,091-645 31 04,1994-09-23,True
+Marita,Karlsson,Industrivägen 7,Södertälje,45764,Sverige,SE,19810923-7612,46,+46 (0)889 710 77,1981-09-23,True
+Svea,Persson,Ängsvägen 0,Borlänge,17230,Sverige,SE,19421229-9941,46,084-69 61 39,1942-12-29,True
+Torsten,Andersson,Björkgatan 50,Halmstad,66674,Sverige,SE,19570420-6015,46,+46 (0)8 710 041 54,1957-04-20,True
+Robert,Persson,Fabriksgatan 34,Luleå,77044,Sverige,SE,19690425-7712,46,+46 (0)47 05 06 66,1969-04-25,True
+Hans,Nilsson,Åkergatan 40,Falun,31787,Sverige,SE,19410513-8393,46,019-57 11 92,1941-05-13,True
+Frida,Magnusson,Kyrkvägen 05,Karlskoga,40022,Sverige,SE,19810429-3952,46,08-24 44 54,1981-04-29,True
+Madeleine,Nygren,Backgatan 3,Östersund,33132,Sverige,SE,19560903-8779,46,0384-03 62 30,1956-09-03,True
+Matilda,Olausson,Strandgatan 9,Falun,22194,Sverige,SE,19770208-5055,46,0024-85 85 82,1977-02-08,True
+Fredrik,Norman,Kyrkvägen 12,Sandviken,26026,Sverige,SE,19800406-4078,46,+46 (0)8 479 729 75,1980-04-06,True
+Sigurd,Gustavsson,Storvägen 220,Motala,11964,Sverige,SE,19930610-2351,46,039-524 00 57,1993-06-10,True
+Roland,Mattsson,Trädgårdsgränd 0,Umeå,43610,Sverige,SE,19641202-2204,46,0807-85 18 14,1964-12-02,True
+Gun,Håkansson,Skolgatan 840,Ängelholm,40687,Sverige,SE,19800724-3541,46,+46 (0)8 769 382 61,1980-07-24,True
+Torsten,Bäckström,Ringtorget 616,Göteborg,66893,Sverige,SE,19941021-8181,46,0798-67 39 84,1994-10-21,True
+Ingegerd,Nilsson,Parkvägen 358,Stockholm,54367,Sverige,SE,19991003-7909,46,08-715 431 95,1999-10-03,True
+Peter,Pettersson,Parkgatan 50,Motala,55592,Sverige,SE,19890309-4258,46,08-37 90 90,1989-03-09,True
+Svea,Blom,Parkgatan 805,Karlskrona,74699,Sverige,SE,19580919-1837,46,0880-978 73,1958-09-19,True
+Ester,Eriksson,Kyrkgatan 745,Luleå,57652,Sverige,SE,19520420-3891,46,074-13 02 99,1952-04-20,True
+Eva,Jonsson,Skolstigen 93,Varberg,72455,Sverige,SE,19841213-5422,46,+46 (0)57 58 88 68,1984-12-13,True
+Marianne,Roos,Villagatan 71,Lidköping,10874,Sverige,SE,19981008-7003,46,08-833 967 50,1998-10-08,True
+Kristina,Persson,Industrigatan 2,Skövde,49353,Sverige,SE,19900106-0289,46,028-85 67 76,1990-01-06,True
+Elisabet,Andersson,Bäckvägen 66,Trollhättan,96487,Sverige,SE,19570728-3768,46,08-450 387 22,1957-07-28,True
+Tobias,Larsson,Aspgatan 60,Borlänge,54579,Sverige,SE,19660630-1773,46,08-995 77 59,1966-06-30,True
+Ann-Marie,Jönsson,Fabriksgränd 79,Södertälje,32843,Sverige,SE,19600412-1527,46,08-855 24 50,1960-04-12,True
+Karl,Karlsson,Ekstigen 82,Lund,47535,Sverige,SE,19470109-0168,46,+46 (0)22 29 73 51,1947-01-09,True
+Björn,Ekman,Grantorget 55,Linköping,78608,Sverige,SE,19441011-9388,46,088-285 65 92,1944-10-11,True
+Olof,Larsson,Industrigatan 1,Karlskrona,64446,Sverige,SE,19750321-8937,46,086-002 93 33,1975-03-21,True
+Adam,Johansson,Parkvägen 9,Norrköping,35091,Sverige,SE,19600304-8772,46,+46 (0)67 62 55 44,1960-03-04,True
+Aukusti,Ihalainen,Puroniitynkatu 8,Paltamo,55025,Sverige,FI,19910712-282S,358,0423086401,1991-07-12,True
+Maria,Lilja,Nystigen 88,Jönköping,19530,Sverige,SE,19461028-8039,46,+46 (0)54 10 80 97,1946-10-28,True
+Oskar,Svärd,Kyrkgränd 335,Landskrona,30881,Sverige,SE,19510406-1516,46,08-648 163 27,1951-04-06,True
+Ove,Svensson,Ängsvägen 71,Borås,96209,Sverige,SE,19660922-3112,46,08-064 090 08,1966-09-22,True
+Katarina,Jönsson,Ängsstigen 6,Växjö,56606,Sverige,SE,19860101-4566,46,+46 (0)8 165 318 70,1986-01-01,True
+Ann-Christin,Lundgren,Skogsstigen 72,Sandviken,47662,Sverige,SE,19550202-0457,46,+46 (0)429 814 80,1955-02-02,True
+Peter,Andersson,Kyrkgatan 866,Lund,51848,Sverige,SE,19851229-5843,46,0811-02 74 07,1985-12-29,True
+Gudrun,Olsson,Skolgatan 17,Stockholm,34273,Sverige,SE,19700421-7287,46,+46 (0)8 793 205 21,1970-04-21,True
+Fredrik,Berggren,Ängsvägen 470,Piteå,48750,Sverige,SE,19541110-6847,46,08-77 13 37,1954-11-10,True
+Marie,Svensson,Kvarnvägen 977,Linköping,30440,Sverige,SE,19440919-5807,46,0977-91 27 98,1944-09-19,True
+Maria,Eriksson,Grantorget 36,Karlskoga,73043,Sverige,SE,19490914-7726,46,0246-387 60,1949-09-14,True
+Anita,Karlsson,Idrottsgatan 8,Karlskrona,54050,Sverige,SE,19560906-9244,46,+46 (0)085 856 20,1956-09-06,True
+Lars,Bengtsson,Kyrkogränd 62,Lidköping,30305,Sverige,SE,19801104-2779,46,08-61 29 19,1980-11-04,True
+Elisabet,Eriksson,Kvarnvägen 20,Nyköping,88132,Sverige,SE,19560814-4943,46,08-529 12 16,1956-08-14,True
+Ingegerd,Karlsson,Storstigen 52,Lidingö,50470,Sverige,SE,19860628-5795,46,+46 (0)03 37 53 47,1986-06-28,True
+Henry,Eliasson,Parkvägen 8,Trelleborg,65437,Sverige,SE,19841214-1364,46,+46 (0)359 215 03,1984-12-14,True
+Lars,Fransson,Kyrkostigen 69,Skellefteå,62133,Sverige,SE,19701109-1670,46,0312-953 97,1970-11-09,True
+Jonas,Löfgren,Parkstigen 9,Skellefteå,27176,Sverige,SE,19840710-2759,46,041-26 12 98,1984-07-10,True
+Sven,Andersson,Björkgatan 69,Stockholm,86304,Sverige,SE,19450119-7453,46,08-61 25 16,1945-01-19,True
+Gert,Andersson,Trädgårdsvägen 497,Lidingö,42897,Sverige,SE,19440618-8865,46,+46 (0)68 02 08 98,1944-06-18,True
+Maria,Carlsson,Nyvägen 3,Kristianstad,73119,Sverige,SE,19430301-1650,46,+46 (0)8 112 237 95,1943-03-01,True
+Jonas,Nilsson,Genvägen 922,Alingsås,43986,Sverige,SE,19770821-4095,46,08-504 956 30,1977-08-21,True
+Ingrid,Larsson,Furustigen 2,Västerås,99408,Sverige,SE,19990929-3721,46,+46 (0)8 790 086 39,1999-09-29,True
+Monica,Lindholm,Skolgatan 074,Sundsvall,83625,Sverige,SE,19980914-9073,46,08-632 819 50,1998-09-14,True
+Ruth,Johnsson,Villatorget 482,Sundsvall,70682,Sverige,SE,19400805-8683,46,08-416 240 59,1940-08-05,True
+Kerstin,Andersson,Stationstorget 0,Karlstad,46197,Sverige,SE,19640415-6199,46,+46 (0)73 08 85 03,1964-04-15,True
+Inger,Lindblom,Åkerstigen 80,Lund,40576,Sverige,SE,19640306-8704,46,0851-74 67 43,1964-03-06,True
+Sven,Danielsson,Genstigen 0,Falun,94198,Sverige,SE,19640407-6028,46,0056-81 90 34,1964-04-07,True
+Lisbeth,Eriksson,Parkstigen 849,Ängelholm,27304,Sverige,SE,19820815-5433,46,0469-26 93 98,1982-08-15,True
+Arnold,Svensson,Kyrkovägen 85,Alingsås,92514,Sverige,SE,19540805-1574,46,08-05 69 54,1954-08-05,True
+Inger,Fransson,Nygränd 1,Kalmar,63993,Sverige,SE,19531118-1645,46,+46 (0)854 392 15,1953-11-18,True
+Roland,Jakobsson,Industrigatan 1,Lidingö,20172,Sverige,SE,19420902-8052,46,+46 (0)917 788 04,1942-09-02,True
+Johan,Olofsson,Fabriksgatan 6,Karlstad,14095,Sverige,SE,19990202-2381,46,08-25 25 99,1999-02-02,True
+Fredrik,Olsson,Ekgränd 66,Ängelholm,80499,Sverige,SE,19610203-7491,46,048-71 60 02,1961-02-03,True
+Ingegerd,Andersson,Storvägen 12,Kalmar,28201,Sverige,SE,19770402-2306,46,08-359 560 46,1977-04-02,True
+Hans,Gustafsson,Storvägen 592,Ängelholm,75540,Sverige,SE,19750128-7967,46,0659-71 53 83,1975-01-28,True
+Sven,Svensson,Björkgatan 8,Umeå,47825,Sverige,SE,19501017-0967,46,0263-867 83,1950-10-17,True
+Eva,Eriksson,Skolgränd 720,Lund,79626,Sverige,SE,19741021-8813,46,08-967 685 27,1974-10-21,True
+Erik,Olsson,Skolvägen 57,Trelleborg,86150,Sverige,SE,19890724-4256,46,019-190 43 34,1989-07-24,True
+Josefine,Forsberg,Villagatan 7,Karlstad,82700,Sverige,SE,19581028-0220,46,0418-180 60,1958-10-28,True
+Leif,Persson,Ekvägen 3,Umeå,20902,Sverige,SE,19950628-8038,46,0586-23 65 72,1995-06-28,True
+Dagmar,Fredriksson,Grangatan 948,Sandviken,98882,Sverige,SE,19560827-0959,46,0612-24 43 27,1956-08-27,True
+Jenny,Friberg,Kyrkgatan 5,Sundsvall,20083,Sverige,SE,19470701-3398,46,008-092 30 43,1947-07-01,True
+Karin,Höglund,Parkgatan 3,Linköping,79575,Sverige,SE,19970530-5884,46,+46 (0)46 43 92 82,1997-05-30,True
+Anders,Karlsson,Skoltorget 86,Uddevalla,93745,Sverige,SE,19510607-3562,46,+46 (0)8 897 344 92,1951-06-07,True
+Christina,Eriksson,Industrigatan 555,Varberg,58285,Sverige,SE,19800321-8255,46,08-080 065 78,1980-03-21,True
+Karl,Eriksson,Ektorget 9,Varberg,48762,Sverige,SE,19771123-0519,46,08-09 39 20,1977-11-23,True
+Britta,Nilsson,Järnvägsgatan 0,Piteå,99682,Sverige,SE,19640623-5387,46,0061-792 31,1964-06-23,True
+Olof,Eklund,Idrottsstigen 89,Halmstad,83974,Sverige,SE,19520201-8807,46,042-391 71 39,1952-02-01,True
+Henrik,Nilsson,Kyrkgränd 66,Kalmar,46415,Sverige,SE,19650831-5062,46,+46 (0)8 857 809 17,1965-08-31,True
+Eva,Svensson,Kyrkogränd 1,Kalmar,69528,Sverige,SE,19710715-1395,46,+46 (0)8 586 671 12,1971-07-15,True
+Josefina,Andersson,Industrigatan 44,Karlstad,72341,Sverige,SE,19971009-9709,46,0066-58 43 96,1997-10-09,True
+Anna-Karin,Stenberg,Trädgårdstorget 104,Lidköping,56349,Sverige,SE,19470206-7797,46,+46 (0)342 734 94,1947-02-06,True
+Claes,Persson,Åkervägen 5,Halmstad,89480,Sverige,SE,19920711-7893,46,+46 (0)00 75 36 29,1992-07-11,True
+Roger,Olofsson,Parkvägen 17,Örnsköldsvik,30725,Sverige,SE,19490715-6452,46,08-76 34 48,1949-07-15,True
+Veronica,Andersson,Åkergatan 36,Malmö,21194,Sverige,SE,19590903-0842,46,08-641 214 15,1959-09-03,True
+Linnéa,Näslund,Granvägen 98,Östersund,73301,Sverige,SE,19420217-2228,46,+46 (0)8 013 491 75,1942-02-17,True
+Eric,Blomberg,Kvarnvägen 2,Göteborg,33196,Sverige,SE,19870816-7380,46,+46 (0)059 426 34,1987-08-16,True
+Tore,Pettersson,Grantorget 99,Växjö,21070,Sverige,SE,19630413-6368,46,+46 (0)165 239 92,1963-04-13,True
+Lennart,Lindgren,Backstigen 34,Skellefteå,50962,Sverige,SE,19921028-7021,46,073-594 12 40,1992-10-28,True
+Anna,Eklund,Bäckgatan 370,Gävle,10843,Sverige,SE,19701218-9853,46,08-340 508 18,1970-12-18,True
+Einar,Olsson,Storstigen 4,Skövde,86564,Sverige,SE,19810422-2975,46,0935-83 62 37,1981-04-22,True
+Vilhelmina,Jonasson,Strandtorget 72,Uddevalla,99858,Sverige,SE,19490329-3546,46,088-59 66 02,1949-03-29,True
+Viktoria,Pettersson,Järnvägsvägen 17,Stockholm,21550,Sverige,SE,19560526-0774,46,+46 (0)8 677 060 53,1956-05-26,True
+Susanne,Andersson,Gentorget 89,Sandviken,24208,Sverige,SE,19700904-9433,46,051-96 96 82,1970-09-04,True
+Jan,Larsson,Kyrkotorget 17,Eskilstuna,49811,Sverige,SE,19860104-9818,46,0273-798 60,1986-01-04,True
+Jacob,Nilsson,Järnvägsvägen 4,Mölndal,39462,Sverige,SE,19670130-3713,46,+46 (0)001 385 30,1967-01-30,True
+Klas,Lindgren,Skogsgatan 75,Karlstad,84643,Sverige,SE,19740902-4200,46,08-55 94 98,1974-09-02,True
+Olle,Jansson,Skolgatan 986,Växjö,73464,Sverige,SE,19520927-1454,46,08-804 29 43,1952-09-27,True
+André,Holmberg,Kvarngatan 61,Halmstad,79773,Sverige,SE,19691116-9425,46,0795-22 89 64,1969-11-16,True
+Peter,Carlsson,Grangatan 203,Helsingborg,98860,Sverige,SE,19980804-7675,46,08-818 47 96,1998-08-04,True
+Kenneth,Bengtsson,Ängsgatan 174,Karlstad,90133,Sverige,SE,19671025-1659,46,+46 (0)8 916 193 68,1967-10-25,True
+Britt,Svensson,Åkertorget 0,Alingsås,39562,Sverige,SE,19850516-7379,46,08-706 206 49,1985-05-16,True
+Marie,Sundin,Kyrkovägen 55,Varberg,95912,Sverige,SE,19700601-4897,46,+46 (0)03 55 05 36,1970-06-01,True
+Kajsa,Berg,Furustigen 54,Helsingborg,38908,Sverige,SE,19971116-4694,46,08-240 31 86,1997-11-16,True
+Helge,Johansson,Industrivägen 705,Uppsala,17509,Sverige,SE,19650806-9259,46,08-86 73 60,1965-08-06,True
+Christoffer,Johansson,Storgatan 19,Falun,50921,Sverige,SE,19660913-9001,46,021-47 66 87,1966-09-13,True
+Catarina,Sundberg,Parkvägen 24,Helsingborg,59934,Sverige,SE,19920118-4014,46,+46 (0)8 138 568 04,1992-01-18,True
+Jan,Andersson,Järnvägsstigen 806,Alingsås,32411,Sverige,SE,19960318-7879,46,029-638 71 17,1996-03-18,True
+Per,Blom,Backgatan 9,Luleå,97872,Sverige,SE,19730204-7269,46,0870-341 20,1973-02-04,True
+Margareta,Gustafsson,Järnvägsvägen 99,Östersund,78199,Sverige,SE,19990523-8601,46,+46 (0)711 674 23,1999-05-23,True
+Erik,Norberg,Storstigen 8,Helsingborg,23173,Sverige,SE,19500929-2598,46,+46 (0)296 731 58,1950-09-29,True
+Elisabeth,Gustavsson,Ringgatan 8,Karlskrona,70784,Sverige,SE,19770911-2972,46,092-73 23 86,1977-09-11,True
+Göran,Lundberg,Storgatan 13,Stockholm,35275,Sverige,SE,19701215-4584,46,+46 (0)8 469 089 13,1970-12-15,True
+Birgitta,Olsson,Trädgårdsvägen 9,Trollhättan,13245,Sverige,SE,19700217-0222,46,08-451 536 36,1970-02-17,True
+Jessica,Karlsson,Gengatan 5,Göteborg,50317,Sverige,SE,19890901-5643,46,+46 (0)900 958 24,1989-09-01,True
+Leif,Johansson,Fabriksvägen 7,Växjö,68527,Sverige,SE,19660202-3997,46,+46 (0)8 997 982 25,1966-02-02,True
+Carina,Falk,Grangatan 4,Kalmar,85230,Sverige,SE,19820820-7115,46,08-800 273 04,1982-08-20,True
+Anna,Andersson,Stortorget 085,Borlänge,57888,Sverige,SE,19650120-8102,46,0957-668 47,1965-01-20,True
+Erik,Aronsson,Furugränd 41,Uddevalla,95934,Sverige,SE,19400922-8698,46,+46 (0)8 735 790 37,1940-09-22,True
+Rickard,Lindholm,Ringstigen 765,Jönköping,39142,Sverige,SE,19830518-8703,46,0990-464 07,1983-05-18,True
+Martin,Dahlgren,Furugatan 712,Motala,10773,Sverige,SE,19730401-6636,46,067-002 09 67,1973-04-01,True
+Maria,Jakobsson,Ekgatan 64,Ängelholm,79907,Sverige,SE,19720206-3866,46,044-487 45 25,1972-02-06,True
+Johanna,Karlsson,Ängsgränd 24,Skövde,14091,Sverige,SE,19510114-8090,46,08-145 543 18,1951-01-14,True
+Ingvar,Olsson,Kyrkogatan 933,Skövde,98965,Sverige,SE,19420402-1245,46,+46 (0)245 962 20,1942-04-02,True
+Alice,Andersson,Idrottstorget 091,Piteå,39606,Sverige,SE,19530214-7180,46,08-365 303 24,1953-02-14,True
+Sigrid,Isaksson,Fabriksgatan 4,Karlstad,81285,Sverige,SE,19720512-6107,46,098-28 94 12,1972-05-12,True
+Matilda,Samuelsson,Ringvägen 05,Sundsvall,41815,Sverige,SE,19631106-3748,46,064-473 62 97,1963-11-06,True
+Gunvor,Vikström,Åkerstigen 804,Växjö,30654,Sverige,SE,19531110-8741,46,+46 (0)592 269 61,1953-11-10,True
+Bengt,Eriksson,Grangatan 8,Lidköping,43716,Sverige,SE,19740102-1253,46,0635-577 99,1974-01-02,True
+Agneta,Gustavsson,Parkvägen 196,Östersund,45136,Sverige,SE,19500202-3598,46,+46 (0)95 07 05 30,1950-02-02,True
+Irma,Boström,Genstigen 044,Malmö,36065,Sverige,SE,19640827-4342,46,076-15 88 18,1964-08-27,True
+Amanda,Jakobsson,Parkgränd 4,Piteå,79578,Sverige,SE,20000626-9247,46,+46 (0)8 901 682 05,2000-06-26,True
+Carl,Larsson,Ringvägen 628,Linköping,18612,Sverige,SE,19940409-4009,46,+46 (0)659 416 31,1994-04-09,True
+Karl,Pettersson,Parkgatan 768,Umeå,21368,Sverige,SE,19830905-4343,46,018-542 45 20,1983-09-05,True
+Anna,Gustavsson,Ringtorget 21,Piteå,63867,Sverige,SE,19931226-6494,46,0811-197 93,1993-12-26,True
+Margareta,Jonsson,Strandgatan 92,Helsingborg,65998,Sverige,SE,19941214-1080,46,+46 (0)751 996 17,1994-12-14,True
+Leif,Jansson,Storvägen 5,Alingsås,80240,Sverige,SE,19960813-9625,46,08-605 238 20,1996-08-13,True
+Camilla,Adolfsson,Storgränd 695,Skellefteå,37064,Sverige,SE,19600308-0993,46,+46 (0)78 50 17 74,1960-03-08,True
+Rolf,Wallin,Industrigränd 5,Mölndal,31704,Sverige,SE,19700202-0117,46,0708-22 95 04,1970-02-02,True
+Rune,Fredriksson,Industrigatan 843,Lidköping,63918,Sverige,SE,19711218-9258,46,08-19 26 27,1971-12-18,True
+Cecilia,Svensson,Idrottsgatan 98,Gävle,82306,Sverige,SE,19490916-8722,46,+46 (0)150 698 11,1949-09-16,True
+Inge,Ekström,Strandtorget 376,Östersund,20146,Sverige,SE,19830528-6126,46,+46 (0)8 113 882 91,1983-05-28,True
+Margareta,Andersson,Ringgatan 413,Linköping,52111,Sverige,SE,19490104-0226,46,0986-182 34,1949-01-04,True
+Anna,Petersson,Ängsvägen 82,Lund,10561,Sverige,SE,19640828-2758,46,0402-42 88 34,1964-08-28,True
+Lena,Larsson,Skogsstigen 6,Umeå,35935,Sverige,SE,19421127-5833,46,+46 (0)180 958 81,1942-11-27,True
+Emanuel,Johansson,Industristigen 208,Borås,46444,Sverige,SE,20000125-7571,46,+46 (0)8 036 961 21,2000-01-25,True
+Magnus,Gustafsson,Villavägen 814,Borlänge,76085,Sverige,SE,19961125-2617,46,+46 (0)566 375 94,1996-11-25,True
+Aina,Nilsson,Industritorget 914,Sandviken,35322,Sverige,SE,19441029-5751,46,0013-66 63 05,1944-10-29,True
+Gerd,Öhman,Parkstigen 2,Landskrona,88808,Sverige,SE,19640404-3338,46,+46 (0)22 87 72 22,1964-04-04,True
+Berit,Erlandsson,Stationsvägen 5,Uddevalla,10339,Sverige,SE,19600402-0619,46,008-40 04 01,1960-04-02,True
+Ulla,Dahlgren,Idrottsgränd 7,Alingsås,34614,Sverige,SE,19960527-6671,46,0052-092 08,1996-05-27,True
+Margaretha,Blomberg,Idrottsstigen 0,Lidköping,48248,Sverige,SE,19610123-1611,46,+46 (0)8 479 424 42,1961-01-23,True
+Fredrik,Andersson,Granvägen 2,Trelleborg,74483,Sverige,SE,19680126-8068,46,0481-277 02,1968-01-26,True
+Ingvar,Moberg,Genstigen 6,Stockholm,77498,Sverige,SE,19531014-6047,46,+46 (0)72 52 93 58,1953-10-14,True
+Maria,Moberg,Industritorget 1,Skellefteå,64448,Sverige,SE,19530130-7009,46,08-720 43 61,1953-01-30,True
+Barbro,Lindberg,Åkergatan 128,Malmö,24443,Sverige,SE,19800209-9834,46,08-220 46 66,1980-02-09,True
+Erik,Karlsson,Järnvägsgränd 51,Helsingborg,45339,Sverige,SE,19970426-8782,46,093-42 03 80,1997-04-26,True
+Hans,Olsson,Järnvägsgatan 2,Skövde,49654,Sverige,SE,19490319-1200,46,+46 (0)94 44 16 36,1949-03-19,True
+Carl,Persson,Industristigen 93,Karlskoga,40873,Sverige,SE,19700720-6116,46,0296-231 98,1970-07-20,True
+Kurt,Johansson,Aspvägen 22,Karlskoga,60620,Sverige,SE,19921222-0647,46,033-72 01 87,1992-12-22,True
+Maria,Johnsson,Bäckstigen 119,Östersund,56395,Sverige,SE,19410625-5714,46,0756-80 74 14,1941-06-25,True
+Henrik,Klasson,Villagatan 83,Helsingborg,50819,Sverige,SE,19470424-4892,46,0309-78 82 72,1947-04-24,True
+Jan,Pettersson,Skolgränd 465,Lidingö,69765,Sverige,SE,20000527-2452,46,020-356 39 41,2000-05-27,True
+Stefan,Falk,Villavägen 67,Karlstad,49291,Sverige,SE,19500716-4691,46,08-20 21 33,1950-07-16,True
+Camilla,Johansson,Stationsgatan 58,Lund,68768,Sverige,SE,19860215-1862,46,+46 (0)382 828 64,1986-02-15,True
+Maria,Bengtsson,Stationsgatan 06,Mölndal,77226,Sverige,SE,19450724-2896,46,08-60 92 62,1945-07-24,True
+Maria,Nguyen,Johannessentoppen 07,Toregrunn,8318,Sverige,NO,19910624-2393,47,94295800,1991-06-24,True
+Urban,Svensson,Backstigen 493,Östersund,94910,Sverige,SE,19500221-0870,46,08-557 28 64,1950-02-21,True
+Björn,Lindkvist,Parkvägen 755,Kristianstad,87368,Sverige,SE,19821115-4391,46,08-607 57 58,1982-11-15,True
+Margareta,Holm,Industrivägen 89,Växjö,87717,Sverige,SE,19881203-7466,46,+46 (0)8 130 011 47,1988-12-03,True
+Arne,Forsberg,Parktorget 69,Landskrona,67957,Sverige,SE,20000117-3546,46,08-60 29 98,2000-01-17,True
+Marie,Jonsson,Storgatan 07,Trelleborg,54446,Sverige,SE,19580205-0545,46,0436-987 78,1958-02-05,True
+Ida,Norén,Kvarngränd 09,Norrköping,33935,Sverige,SE,19661231-2664,46,043-138 07 61,1966-12-31,True
+Erik,Petersson,Villagatan 835,Falun,61146,Sverige,SE,19970411-2558,46,0437-21 94 36,1997-04-11,True
+Jenny,Jansson,Åkerstigen 2,Uddevalla,36629,Sverige,SE,19900625-9868,46,+46 (0)506 844 06,1990-06-25,True
+Birger,Olsson,Gengatan 2,Ängelholm,64512,Sverige,SE,19730616-6069,46,+46 (0)47 63 46 70,1973-06-16,True
+Elisabet,Karlsson,Nytorget 169,Linköping,81661,Sverige,SE,19560916-3969,46,051-51 65 16,1956-09-16,True
+Margaretha,Larsson,Järnvägsgatan 547,Södertälje,24795,Sverige,SE,19910914-9111,46,002-93 61 13,1991-09-14,True
+Lena,Johnsson,Skolstigen 651,Motala,42161,Sverige,SE,19880206-4265,46,+46 (0)67 02 92 83,1988-02-06,True
+Jessica,Andersson,Ängsvägen 576,Göteborg,15175,Sverige,SE,19990409-3602,46,063-36 22 36,1999-04-09,True
+Lilly,Hansson,Industrigatan 48,Nyköping,87678,Sverige,SE,19650512-5244,46,0647-23 72 36,1965-05-12,True
+Kristina,Larsson,Strandgatan 30,Örnsköldsvik,34518,Sverige,SE,19671201-6602,46,0414-11 69 19,1967-12-01,True
+Lars,Blom,Skolgatan 11,Eskilstuna,75811,Sverige,SE,19680523-8845,46,08-216 39 70,1968-05-23,True
+Ingrid,Eriksson,Parkvägen 982,Gävle,18743,Sverige,SE,19631110-2909,46,053-334 43 65,1963-11-10,True
+Anders,Andersson,Aspstigen 93,Växjö,11785,Sverige,SE,19660106-6023,46,+46 (0)54 39 84 14,1966-01-06,True
+Kenneth,Gunnarsson,Järnvägsgatan 10,Nyköping,25589,Sverige,SE,19400526-8968,46,0661-748 29,1940-05-26,True
+Anna,Andersson,Grantorget 0,Trollhättan,32755,Sverige,SE,19421229-3193,46,049-48 39 56,1942-12-29,True
+Katarina,Persson,Trädgårdsstigen 96,Motala,12009,Sverige,SE,19500509-1904,46,08-967 58 78,1950-05-09,True
+Göran,Larsson,Trädgårdsgränd 6,Trollhättan,61892,Sverige,SE,19850524-5419,46,08-331 96 21,1985-05-24,True
+Maria,Larsson,Industrigatan 26,Gävle,68007,Sverige,SE,19490810-5636,46,0713-456 51,1949-08-10,True
+Per,Karlsson,Furugränd 54,Borås,81757,Sverige,SE,19830805-0979,46,041-23 18 27,1983-08-05,True
+Ingemar,Olsson,Parkgränd 6,Motala,57454,Sverige,SE,19860903-8696,46,+46 (0)909 364 61,1986-09-03,True
+Allan,Lindqvist,Trädgårdstorget 023,Kristianstad,27627,Sverige,SE,19710405-4685,46,+46 (0)357 232 21,1971-04-05,True
+Anders,Nyman,Trädgårdsgatan 3,Falun,90113,Sverige,SE,19620712-5192,46,+46 (0)62 32 09 23,1962-07-12,True
+Gerhard,Jonsson,Åkervägen 767,Örebro,78451,Sverige,SE,19760814-8592,46,081-37 90 40,1976-08-14,True
+Hans,Palm,Åkergränd 797,Borlänge,72306,Sverige,SE,19431204-5346,46,08-628 633 07,1943-12-04,True
+Eva,Karlsson,Ringgatan 64,Karlskrona,95717,Sverige,SE,19680203-2687,46,0642-037 16,1968-02-03,True
+David,Johansson,Bäckgatan 0,Lidköping,76945,Sverige,SE,19890307-3814,46,0008-421 89,1989-03-07,True
+Bo,Svensson,Industritorget 575,Borås,51333,Sverige,SE,19550529-2006,46,08-83 33 98,1955-05-29,True
+Kristina,Eriksson,Fabrikstorget 916,Helsingborg,77658,Sverige,SE,20000409-3682,46,08-632 099 30,2000-04-09,True
+Ann,Ivarsson,Nygränd 42,Borås,80570,Sverige,SE,19531009-8213,46,0849-25 87 56,1953-10-09,True
+Elisabet,Magnusson,Parkvägen 8,Växjö,13215,Sverige,SE,19480611-1675,46,049-274 60 83,1948-06-11,True
+Ingemar,Gustafsson,Kvarngatan 426,Lidköping,85934,Sverige,SE,19870319-2957,46,070-48 23 09,1987-03-19,True
+Anna,Högberg,Björktorget 67,Falun,33720,Sverige,SE,19460713-0644,46,+46 (0)82 74 77 81,1946-07-13,True
+Birgitta,Johansson,Åkergatan 17,Jönköping,24690,Sverige,SE,19791008-8538,46,084-70 82 30,1979-10-08,True
+Anna,Nyberg,Skogsstigen 27,Landskrona,25442,Sverige,SE,19760906-5030,46,+46 (0)878 727 98,1976-09-06,True
+Birgitta,Eriksson,Nygatan 58,Piteå,90692,Sverige,SE,19490911-0632,46,+46 (0)164 319 89,1949-09-11,True
+Johanna,Persson,Furuvägen 272,Landskrona,68426,Sverige,SE,19471023-9900,46,0351-831 49,1947-10-23,True
+Birger,Larsson,Industrivägen 33,Jönköping,96860,Sverige,SE,19861018-9750,46,+46 (0)30 29 88 03,1986-10-18,True
+Anna,Klasson,Kvarnstigen 7,Lidingö,33285,Sverige,SE,19820705-0611,46,046-79 49 63,1982-07-05,True
+Susanne,Bergström,Ekgränd 806,Sandviken,12318,Sverige,SE,19671006-2247,46,+46 (0)8 720 661 72,1967-10-06,True
+John,Sjödin,Industristigen 10,Karlskrona,93971,Sverige,SE,19690822-6983,46,08-693 50 79,1969-08-22,True
+Per,Johansson,Villagränd 266,Motala,94928,Sverige,SE,19700809-9107,46,08-61 51 07,1970-08-09,True
+Erik,Andersson,Ringvägen 28,Falun,59599,Sverige,SE,19630606-6115,46,0895-62 55 76,1963-06-06,True
+Lovisa,Johansson,Kyrkvägen 298,Göteborg,59435,Sverige,SE,19620618-2329,46,08-813 90 51,1962-06-18,True
+Johan,Nilsson,Parkstigen 610,Trollhättan,40880,Sverige,SE,19430803-3132,46,08-949 144 51,1943-08-03,True
+Sara,Karlsson,Industrivägen 00,Östersund,49244,Sverige,SE,19960126-1366,46,+46 (0)90 24 14 66,1996-01-26,True
+Sven,Ågren,Stationsstigen 3,Karlskoga,12878,Sverige,SE,19641209-6967,46,08-92 77 73,1964-12-09,True
+Arne,Svensson,Trädgårdsgränd 04,Lidingö,32467,Sverige,SE,19830607-8293,46,+46 (0)8 435 720 45,1983-06-07,True
+Johan,Nilsson,Idrottsvägen 740,Jönköping,43966,Sverige,SE,19950718-9365,46,0200-48 03 08,1995-07-18,True
+Madeleine,Nyberg,Parkstigen 5,Göteborg,22202,Sverige,SE,19480912-2302,46,0258-24 33 28,1948-09-12,True
+Bengt,Lindgren,Gengatan 47,Södertälje,55555,Sverige,SE,19770208-1898,46,+46 (0)8 878 737 85,1977-02-08,True
+Jimmy,Nilsson,Stationsgatan 236,Motala,31499,Sverige,SE,19630616-1028,46,08-29 96 55,1963-06-16,True
+Patrik,Månsson,Ekvägen 31,Kristianstad,85998,Sverige,SE,19540601-4895,46,08-283 20 41,1954-06-01,True
+Per,Lindgren,Järnvägsgränd 2,Eskilstuna,28235,Sverige,SE,19550226-5279,46,0212-986 02,1955-02-26,True
+Carina,Karlsson,Backgatan 1,Uddevalla,75189,Sverige,SE,19880823-4492,46,+46 (0)8 997 548 35,1988-08-23,True
+Inger,Nordin,Backvägen 716,Norrköping,29657,Sverige,SE,19900821-5421,46,095-41 04 37,1990-08-21,True
+Elisabet,Lundberg,Stationsvägen 519,Örnsköldsvik,87250,Sverige,SE,19740125-2878,46,+46 (0)8 220 639 32,1974-01-25,True
+Emelie,Andersson,Skogsgränd 02,Södertälje,72961,Sverige,SE,19561001-6801,46,0524-93 44 47,1956-10-01,True
+Erik,Nilsson,Parkgatan 36,Karlstad,21509,Sverige,SE,19750522-2278,46,+46 (0)57 20 58 75,1975-05-22,True
+Carina,Andersson,Strandstigen 699,Lidköping,90310,Sverige,SE,19730426-5056,46,0693-260 05,1973-04-26,True
+Lilly,Nordin,Skogstorget 645,Mölndal,60190,Sverige,SE,19440723-0651,46,052-34 96 34,1944-07-23,True
+Petra,Lind,Idrottsgatan 6,Kristianstad,70797,Sverige,SE,19920512-2844,46,0148-123 63,1992-05-12,True
+Maria,Björklund,Trädgårdsvägen 2,Linköping,26844,Sverige,SE,19490530-8291,46,042-46 98 22,1949-05-30,True
+Lennart,Pettersson,Backvägen 17,Uddevalla,86967,Sverige,SE,19751214-2516,46,026-847 30 34,1975-12-14,True
+Åke,Larsson,Granstigen 370,Luleå,42161,Sverige,SE,19520808-9846,46,006-143 25 81,1952-08-08,True
+Erik,Gunnarsson,Kyrkogatan 4,Umeå,33023,Sverige,SE,19671017-4552,46,0598-152 90,1967-10-17,True
+Alexander,Hallberg,Furuvägen 4,Eskilstuna,77226,Sverige,SE,19560229-8533,46,+46 (0)281 756 39,1956-02-29,True
+Eva,Karlsson,Industrivägen 7,Ängelholm,77703,Sverige,SE,19600109-9915,46,+46 (0)70 45 23 34,1960-01-09,True
+Ivan,Lindberg,Kvarngränd 3,Trelleborg,53973,Sverige,SE,19510501-1780,46,08-99 42 90,1951-05-01,True
+Lars,Danielsson,Parkgatan 94,Östersund,30279,Sverige,SE,19820813-1414,46,08-824 315 82,1982-08-13,True
+Hillevi,Persson,Skolgränd 5,Karlskoga,76768,Sverige,SE,19740208-0471,46,050-155 73 82,1974-02-08,True
+Jakob,Sundqvist,Gengatan 9,Borlänge,91123,Sverige,SE,19850120-3571,46,0445-40 07 52,1985-01-20,True
+Gertrud,Karlsson,Furuvägen 0,Karlskrona,23200,Sverige,SE,19440324-9209,46,+46 (0)627 495 94,1944-03-24,True
+Kurt,Eliasson,Skolgatan 5,Lidköping,35679,Sverige,SE,19700422-0423,46,0996-072 94,1970-04-22,True
+Gustaf,Carlsson,Kvarngatan 29,Borlänge,80068,Sverige,SE,19520203-8597,46,08-63 84 16,1952-02-03,True
+Anna,Bengtsson,Grangränd 37,Jönköping,49441,Sverige,SE,19860210-7628,46,+46 (0)09 62 27 78,1986-02-10,True
+Hans,Andersson,Stationsstigen 1,Karlskoga,51889,Sverige,SE,19420425-8050,46,08-413 73 70,1942-04-25,True
+Olof,Nilsson,Furustigen 87,Halmstad,52159,Sverige,SE,19970613-0982,46,+46 (0)440 457 93,1997-06-13,True
+David,Petersson,Bäckvägen 99,Karlskrona,84954,Sverige,SE,19740802-5675,46,+46 (0)15 79 67 98,1974-08-02,True
+Maria,Pettersson,Nygatan 4,Motala,67272,Sverige,SE,19820618-2435,46,08-310 180 24,1982-06-18,True
+Sofia,Haglund,Aspgatan 3,Landskrona,58781,Sverige,SE,19410411-4539,46,030-03 86 87,1941-04-11,True
+Alexander,Lundin,Storgatan 21,Norrköping,20367,Sverige,SE,19880530-9773,46,08-751 154 77,1988-05-30,True
+Maria,Petersson,Industritorget 502,Piteå,66511,Sverige,SE,19850513-9879,46,0665-984 65,1985-05-13,True
+Elisabet,Lundgren,Åkervägen 4,Sandviken,21053,Sverige,SE,19760817-0079,46,0769-21 59 79,1976-08-17,True
+Ulf,Blomqvist,Kyrkotorget 69,Alingsås,54036,Sverige,SE,19880605-0879,46,+46 (0)993 653 71,1988-06-05,True
+Krister,Lindholm,Villagränd 24,Karlskrona,45180,Sverige,SE,19980120-9672,46,+46 (0)8 284 083 04,1998-01-20,True
+Birgitta,Bengtsson,Backgatan 4,Nyköping,50320,Sverige,SE,19480320-3438,46,0316-800 56,1948-03-20,True
+Susanne,Johansson,Backtorget 73,Trelleborg,46679,Sverige,SE,19810409-0902,46,019-015 61 69,1981-04-09,True
+Knut,Karlsson,Granvägen 11,Landskrona,19296,Sverige,SE,19480314-0548,46,08-805 63 89,1948-03-14,True
+Maria,Jansson,Ringvägen 9,Borås,96573,Sverige,SE,19720323-9396,46,+46 (0)454 459 60,1972-03-23,True
+Elisabet,Jonsson,Ekvägen 643,Helsingborg,96380,Sverige,SE,19960316-6573,46,08-584 239 97,1996-03-16,True
+Rune,Magnusson,Aspgränd 701,Karlskoga,14367,Sverige,SE,19670101-9046,46,+46 (0)208 456 41,1967-01-01,True
+Ingrid,Lundin,Ringgränd 723,Kalmar,54286,Sverige,SE,19560411-3736,46,0831-82 03 37,1956-04-11,True
+Rolf,Magnusson,Grangatan 694,Jönköping,93321,Sverige,SE,19880319-2416,46,+46 (0)08 23 18 47,1988-03-19,True
+Erik,Petersson,Skolgränd 65,Ängelholm,64750,Sverige,SE,19451017-3617,46,0470-409 10,1945-10-17,True
+Elisabet,Andersson,Ängstorget 845,Borås,57612,Sverige,SE,19700802-0460,46,08-79 36 65,1970-08-02,True
+Ingeborg,Öberg,Ektorget 972,Falun,90036,Sverige,SE,19460314-4179,46,08-50 98 58,1946-03-14,True
+Marianne,Johansson,Industrivägen 611,Kalmar,62406,Sverige,SE,19970110-5424,46,033-77 48 90,1997-01-10,True
+Gunvor,Karlsson,Skogstorget 692,Lidingö,43655,Sverige,SE,19400124-0782,46,045-93 17 45,1940-01-24,True
+Emma,Engström,Trädgårdstorget 6,Östersund,42955,Sverige,SE,19890820-4868,46,08-495 23 28,1989-08-20,True
+Kristian,Boström,Aspgatan 1,Borlänge,45780,Sverige,SE,19801023-0077,46,0499-188 43,1980-10-23,True
+Alexander,Sundström,Fabriksgatan 809,Halmstad,71374,Sverige,SE,19890510-1280,46,0770-955 07,1989-05-10,True
+Viola,Johansson,Trädgårdsgatan 6,Linköping,35344,Sverige,SE,20000417-1580,46,08-127 73 59,2000-04-17,True
+Ingegerd,Karlsson,Strandvägen 562,Helsingborg,71824,Sverige,SE,19410319-9194,46,08-875 427 83,1941-03-19,True
+Ulla,Karlsson,Trädgårdsvägen 418,Eskilstuna,51211,Sverige,SE,19490131-0064,46,0166-610 11,1949-01-31,True
+Harriet,Nilsson,Aspgatan 7,Örnsköldsvik,74292,Sverige,SE,19540501-5907,46,+46 (0)8 992 698 29,1954-05-01,True
+Maria,Eriksson,Villavägen 727,Linköping,12931,Sverige,SE,19520717-3089,46,+46 (0)8 151 490 61,1952-07-17,True
+Alice,Nyberg,Aspvägen 73,Motala,56512,Sverige,SE,19600122-7415,46,0541-731 34,1960-01-22,True
+Christina,Lindgren,Granvägen 498,Trelleborg,61196,Sverige,SE,19530912-9753,46,0143-24 81 42,1953-09-12,True
+Therese,Lind,Fabriksgatan 1,Karlskrona,49833,Sverige,SE,19650401-8879,46,0173-264 01,1965-04-01,True
+Margareta,Eklund,Kyrkvägen 2,Norrköping,12063,Sverige,SE,19950222-6553,46,08-18 37 41,1995-02-22,True
+Ove,Persson,Järnvägsstigen 202,Borås,85095,Sverige,SE,19410803-0681,46,034-316 78 11,1941-08-03,True
+Magnus,Eriksson,Backvägen 844,Landskrona,44572,Sverige,SE,19930125-8798,46,034-47 52 10,1993-01-25,True
+Edvard,Ottosson,Grantorget 1,Karlstad,24849,Sverige,SE,19901229-3257,46,08-40 44 02,1990-12-29,True
+Elisabet,Olsson,Trädgårdsgatan 434,Halmstad,33156,Sverige,SE,19660730-3737,46,08-33 17 94,1966-07-30,True
+Göte,Högberg,Skogsstigen 70,Helsingborg,92187,Sverige,SE,19600903-3246,46,076-04 41 59,1960-09-03,True
+Helena,Håkansson,Industristigen 35,Västerås,51521,Sverige,SE,19780212-9159,46,+46 (0)8 410 935 77,1978-02-12,True
+Nils,Johnsson,Idrottsgatan 6,Mölndal,73564,Sverige,SE,19860114-5317,46,0584-420 41,1986-01-14,True
+Irene,Larsson,Kyrkovägen 54,Örnsköldsvik,80205,Sverige,SE,19650204-3627,45,08-264 17 07,1965-02-04,True
+Erik,Olofsson,Industrivägen 74,Linköping,68123,Sverige,SE,19970830-1114,46,097-224 63 69,1997-08-30,True
+Göran,Andersson,Nyvägen 73,Uppsala,31497,Sverige,SE,19560123-0444,46,+46 (0)8 126 430 23,1956-01-23,True
+Siv,Jakobsson,Backvägen 33,Malmö,31480,Sverige,SE,19400715-1901,46,0992-429 67,1940-07-15,True
+Rickard,Lundström,Industrigatan 627,Mölndal,66172,Sverige,SE,19710405-2659,46,0101-344 89,1971-04-05,True
+Emma,Fredriksson,Furustigen 313,Lidingö,41518,Sverige,SE,19860814-5906,46,+46 (0)780 813 24,1986-08-14,True
+Roland,Johansson,Ektorget 2,Sundsvall,40733,Sverige,SE,19671212-8511,46,0027-91 45 06,1967-12-12,True
+Ingvar,Johansson,Parkvägen 060,Karlskoga,46438,Sverige,SE,19481002-0405,46,+46 (0)8 256 551 21,1948-10-02,True
+Olof,Pettersson,Nygränd 8,Gävle,54759,Sverige,SE,19991221-2849,46,08-823 27 34,1999-12-21,True
+Elisabet,Jonsson,Kvarngatan 77,Eskilstuna,20555,Sverige,SE,19610712-9519,46,0092-318 86,1961-07-12,True
+Harriet,Nilsson,Furugatan 194,Malmö,96523,Sverige,SE,19810410-0560,46,0454-47 44 44,1981-04-10,True
+Ingvar,Eriksson,Kyrkovägen 64,Trollhättan,64556,Sverige,SE,19570420-4230,46,08-318 678 40,1957-04-20,True
+Kurt,Dahlström,Furugatan 8,Kalmar,73447,Sverige,SE,19701208-3288,46,+46 (0)077 761 76,1970-12-08,True
+Karin,Karlsson,Ringvägen 43,Örnsköldsvik,29117,Sverige,SE,19500903-6839,46,0795-21 89 53,1950-09-03,True
+Christina,Andersson,Stationsvägen 84,Borlänge,30308,Sverige,SE,19690724-2382,46,+46 (0)8 080 024 03,1969-07-24,True
+Ida,Samuelsson,Järnvägsgränd 24,Borås,26521,Sverige,SE,19660914-9501,46,08-94 55 84,1966-09-14,True
+Stig,Andreasson,Storvägen 29,Gävle,92068,Sverige,SE,19811219-7685,46,08-286 48 57,1981-12-19,True
+Stefan,Svensson,Backstigen 790,Helsingborg,19881,Sverige,SE,19770215-2068,46,074-48 70 90,1977-02-15,True
+Carina,Holmberg,Villavägen 4,Uddevalla,40468,Sverige,SE,19770803-1801,46,08-077 177 68,1977-08-03,True
+Anna,Johansson,Grangränd 2,Jönköping,61686,Sverige,SE,19810830-2895,46,095-216 58 42,1981-08-30,True
+Bo,Andersson,Ängsvägen 96,Ängelholm,91957,Sverige,SE,19560707-2672,46,047-72 50 72,1956-07-07,True
+Elisabet,Bergqvist,Skolvägen 215,Sundsvall,49217,Sverige,SE,19761217-1544,46,08-947 92 64,1976-12-17,True
+Bengt,Nilsson,Parkstigen 5,Gävle,82455,Sverige,SE,19770218-7006,46,+46 (0)444 741 28,1977-02-18,True
+Inger,Johansson,Aspvägen 5,Lidköping,97837,Sverige,SE,19620328-1614,46,08-599 145 52,1962-03-28,True
+Marcus,Sandberg,Parktorget 3,Skövde,84359,Sverige,SE,19830503-3561,46,0794-496 27,1983-05-03,True
+Ragnhild,Gunnarsson,Trädgårdsvägen 62,Uddevalla,85180,Sverige,SE,19410806-6764,46,070-09 32 27,1941-08-06,True
+Britt,Andersson,Skolstigen 210,Landskrona,61752,Sverige,SE,19731105-6243,46,+46 (0)289 836 43,1973-11-05,True
+Anders,Andersson,Industrigränd 4,Kristianstad,76395,Sverige,SE,19710813-9109,46,08-673 59 02,1971-08-13,True
+Peter,Jansson,Strandstigen 49,Södertälje,37327,Sverige,SE,19651109-6971,46,0497-058 61,1965-11-09,True
+Barbro,Johnsson,Björkgränd 2,Helsingborg,37978,Sverige,SE,19770423-1814,46,0927-447 00,1977-04-23,True
+Gunnar,Nilsson,Skogsgatan 661,Landskrona,25132,Sverige,SE,20000819-1237,46,08-337 18 43,2000-08-19,True
+Arne,Persson,Ängsvägen 75,Umeå,97892,Sverige,SE,19860508-8490,46,0779-79 36 13,1986-05-08,True
+Olof,Andersson,Järnvägstorget 12,Linköping,27434,Sverige,SE,19950119-1447,46,078-72 85 26,1995-01-19,True
+Johan,Magnusson,Kyrktorget 81,Jönköping,93176,Sverige,SE,19711016-5266,46,0612-774 54,1971-10-16,True
+Kristina,Johansson,Genstigen 8,Kristianstad,78599,Sverige,SE,19590622-0067,46,044-40 15 55,1959-06-22,True
+Cecilia,Arvidsson,Nygatan 5,Göteborg,46535,Sverige,SE,19821116-3708,46,+46 (0)867 832 02,1982-11-16,True
+Arnold,Eriksson,Backtorget 46,Östersund,67876,Sverige,SE,19870126-2794,46,+46 (0)8 189 549 48,1987-01-26,True
+Marie,Martinsson,Kvarnstigen 221,Luleå,68310,Sverige,SE,19710329-6076,46,0756-778 70,1971-03-29,True
+Susanne,Åström,Järnvägsgatan 67,Gävle,45595,Sverige,SE,19950424-8070,46,+46 (0)287 133 84,1995-04-24,True
+Jenny,Andersson,Nyvägen 332,Södertälje,57905,Sverige,SE,19620701-3746,46,08-87 54 33,1962-07-01,True
+Magdalena,Dahlström,Skolgatan 204,Falun,22742,Sverige,SE,19860612-3636,46,08-831 141 98,1986-06-12,True
+Lena,Fransson,Aspgatan 2,Skövde,30779,Sverige,SE,19781125-8861,46,+46 (0)398 031 70,1978-11-25,True
+Håkan,Andersson,Skoltorget 30,Göteborg,37405,Sverige,SE,19530804-9536,46,+46 (0)890 502 52,1953-08-04,True
+Elisabeth,Lindell,Villatorget 041,Lund,28077,Sverige,SE,19920728-7861,46,0006-41 61 74,1992-07-28,True
+Eric,Olsson,Backstigen 050,Falun,54377,Sverige,SE,19740822-6895,46,08-86 53 03,1974-08-22,True
+Jan,Larsson,Granvägen 6,Östersund,58147,Sverige,SE,19860810-0295,46,058-02 18 37,1986-08-10,True
+Oskar,Ericsson,Furugatan 3,Kalmar,73289,Sverige,SE,19860819-0851,46,0935-95 57 43,1986-08-19,True
+Doris,Viklund,Ektorget 1,Borlänge,42329,Sverige,SE,19561227-1401,46,08-117 18 46,1956-12-27,True
+Gerd,Sandström,Stationsgatan 5,Norrköping,99924,Sverige,SE,19680418-0725,46,+46 (0)8 077 119 78,1968-04-18,True
+Birgitta,Larsson,Industrigatan 4,Motala,85459,Sverige,SE,19520212-5071,46,044-687 97 60,1952-02-12,True
+Anna,Andersson,Järnvägsgränd 37,Karlstad,96352,Sverige,SE,19930305-9155,46,+46 (0)01 08 14 16,1993-03-05,True
+Andreas,Rosén,Ektorget 223,Ängelholm,52364,Sverige,SE,19991007-3506,46,098-331 75 96,1999-10-07,True
+Linnea,Larsson,Parktorget 9,Jönköping,68805,Sverige,SE,19461207-8237,46,098-601 49 80,1946-12-07,True
+Kristina,Johansson,Ängsvägen 3,Göteborg,36335,Sverige,SE,19570227-4657,46,063-15 14 20,1957-02-27,True
+Jörgen,Norberg,Kyrkgatan 340,Skövde,27963,Sverige,SE,19770512-4499,46,08-709 438 88,1977-05-12,True
+Alice,Berntsson,Skolvägen 2,Sundsvall,87144,Sverige,SE,19980108-1060,46,08-04 61 02,1998-01-08,True
+Carl,Ivarsson,Åkergränd 672,Skövde,59803,Sverige,SE,19930831-1414,46,033-749 68 38,1993-08-31,True
+Maria,Jonsson,Backvägen 98,Norrköping,99276,Sverige,SE,19880928-6188,46,+46 (0)691 032 64,1988-09-28,True
+Elin,Eriksson,Fabrikstorget 60,Trelleborg,59475,Sverige,SE,19450220-8051,46,08-598 45 78,1945-02-20,True
+Sara,Vikström,Furuvägen 931,Linköping,86105,Sverige,SE,19781112-4709,46,+46 (0)91 08 60 00,1978-11-12,True
+Jesper,Hansen,Fabriksvägen 4,Lidingö,24756,Sverige,SE,19540216-1811,46,030-488 40 16,1954-02-16,True
+Emelie,Johansson,Skogsvägen 4,Kristianstad,23458,Sverige,SE,19990128-2672,46,+46 (0)025 384 63,1999-01-28,True
+Daniel,Svensson,Industrigatan 4,Nyköping,70539,Sverige,SE,19940327-8762,46,0185-77 92 27,1994-03-27,True
+Tomas,Knutsson,Parkgatan 93,Göteborg,86091,Sverige,SE,19480402-4909,46,08-515 606 44,1948-04-02,True
+Anna,Jansson,Björkvägen 43,Lund,79320,Sverige,SE,19970817-4235,46,0418-954 39,1997-08-17,True
+Johanna,Dahlström,Järnvägsgatan 81,Malmö,83524,Sverige,SE,19551224-8240,46,08-20 51 97,1955-12-24,True
+Håkan,Berntsson,Kvarnstigen 08,Karlstad,92235,Sverige,SE,19491228-2996,46,08-74 67 10,1949-12-28,True
+Peter,Strandberg,Ängsstigen 40,Trelleborg,45431,Sverige,SE,19740827-4861,46,088-692 71 07,1974-08-27,True
+Sara,Johansson,Åkergatan 759,Lidköping,18981,Sverige,SE,19630201-6755,46,055-067 34 43,1963-02-01,True
+Robin,Andersson,Skogsgatan 4,Västerås,84303,Sverige,SE,19400320-3868,46,08-978 08 80,1940-03-20,True
+Jonny,Jönsson,Industrigatan 897,Örnsköldsvik,81216,Sverige,SE,19881229-2322,46,0044-42 24 32,1988-12-29,True
+Margareta,Fransson,Trädgårdsstigen 1,Örnsköldsvik,79756,Sverige,SE,19400103-7805,46,+46 (0)8 774 591 06,1940-01-03,True
+Anna,Gustafsson,Fabrikstorget 630,Västerås,92424,Sverige,SE,19990630-6584,46,08-443 73 26,1999-06-30,True
+Kristina,Nilsson,Villastigen 9,Gävle,76554,Sverige,SE,20001219-1014,46,014-29 36 12,2000-12-19,True
+Stina,Linder,Storvägen 34,Växjö,27589,Sverige,SE,19600908-2225,46,+46 (0)8 257 806 38,1960-09-08,True
+Anna,Gustavsson,Furutorget 1,Lund,76275,Sverige,SE,19811010-7296,46,+46 (0)8 220 338 98,1981-10-10,True
+Carl,Jansson,Järnvägsvägen 844,Ängelholm,26654,Sverige,SE,19770719-4583,46,+46 (0)580 554 84,1977-07-19,True
+Johan,Karlsson,Idrottsvägen 645,Östersund,48678,Sverige,SE,19620525-0704,46,0546-177 75,1962-05-25,True
+Linda,Sköld,Furugatan 5,Nyköping,26702,Sverige,SE,19801123-4515,46,+46 (0)8 223 425 93,1980-11-23,True
+Nils,Persson,Järnvägsvägen 6,Västerås,13077,Sverige,SE,19760718-9180,46,+46 (0)8 570 183 97,1976-07-18,True
+Erik,Gustafsson,Industrigatan 27,Alingsås,43942,Sverige,SE,19930815-6445,46,+46 (0)65 50 67 86,1993-08-15,True
+Bengt,Eriksson,Järnvägstorget 66,Uppsala,55548,Sverige,SE,19900811-2998,46,0403-95 01 74,1990-08-11,True
+Bengt,Karlsson,Trädgårdsgatan 97,Nyköping,66159,Sverige,SE,19630318-0384,46,+46 (0)8 287 721 20,1963-03-18,True
+Hans,Andersson,Strandgränd 91,Västerås,92384,Sverige,SE,19890620-0934,46,+46 (0)759 874 83,1989-06-20,True
+Lars,Holm,Ringgränd 1,Lidköping,81274,Sverige,SE,19420426-7963,46,08-488 69 78,1942-04-26,True
+Elisabet,Nilsson,Furuvägen 537,Norrköping,84225,Sverige,SE,19711223-4940,46,017-442 67 74,1971-12-23,True
+Karl,Jonsson,Storstigen 73,Karlskrona,52646,Sverige,SE,19400126-6508,45,+46 (0)13 14 53 44,1940-01-26,True
+Margit,Dahlström,Skolvägen 8,Nyköping,43318,Sverige,SE,19421208-1996,46,08-790 03 52,1942-12-08,True
+Alexander,Larsson,Kyrkogatan 77,Mölndal,67327,Sverige,SE,19590417-4840,46,+46 (0)96 32 59 03,1959-04-17,True
+Barbro,Olsson,Åkergatan 3,Örebro,49689,Sverige,SE,19780520-3559,46,022-213 35 28,1978-05-20,True
+Maria,Högberg,Järnvägsstigen 773,Nyköping,66235,Sverige,SE,19930116-0782,46,+46 (0)66 01 74 03,1993-01-16,True
+Björn,Petersson,Parkgatan 6,Landskrona,95611,Sverige,SE,19830916-7251,46,08-536 53 13,1983-09-16,True
+Stefan,Eriksson,Bäckvägen 3,Alingsås,85345,Sverige,SE,19700517-0028,46,08-82 18 44,1970-05-17,True
+Hans,Bengtsson,Furutorget 893,Trollhättan,23757,Sverige,SE,19570409-2153,46,0556-880 46,1957-04-09,True
+Elin,Öberg,Björkgränd 50,Växjö,13832,Sverige,SE,19610422-1751,46,0354-622 25,1961-04-22,True
+Arne,Andersson,Skolgatan 42,Karlstad,43155,Sverige,SE,19631020-0152,46,+46 (0)8 097 721 24,1963-10-20,True
+Karin,Johansson,Bäckvägen 588,Skövde,88569,Sverige,SE,19400508-5075,46,038-233 66 32,1940-05-08,True
+Rut,Johansson,Parkvägen 2,Luleå,70617,Sverige,SE,19481210-9590,46,0669-31 62 24,1948-12-10,True
+Björn,Karlsson,Ringgatan 4,Lidingö,95401,Sverige,SE,19410514-2896,46,+46 (0)748 376 03,1941-05-14,True
+Conny,Larsson,Kyrkotorget 17,Umeå,42765,Sverige,SE,19930220-3660,46,+46 (0)05 00 33 87,1993-02-20,True
+Göran,Samuelsson,Industrigatan 8,Karlskrona,71477,Sverige,SE,19521127-1284,46,+46 (0)8 643 908 54,1952-11-27,True
+Christer,Karlsson,Kvarntorget 3,Sandviken,24674,Sverige,SE,19620418-6742,46,046-37 99 60,1962-04-18,True
+Karin,Pettersson,Skolgatan 407,Skellefteå,31593,Sverige,SE,19901123-6884,46,046-219 46 05,1990-11-23,True
+Bo,Eriksson,Asptorget 0,Kristianstad,65445,Sverige,SE,19401203-3235,46,024-804 28 80,1940-12-03,True
+Ulf,Henriksson,Idrottsvägen 9,Malmö,53285,Sverige,SE,19921203-1795,46,08-74 86 81,1992-12-03,True
+Elisabeth,Hansson,Skolgränd 27,Mölndal,54451,Sverige,SE,19541121-9812,46,+46 (0)56 21 79 90,1954-11-21,True
+Jan,Johansson,Backvägen 95,Karlstad,51146,Sverige,SE,19480402-6713,46,+46 (0)8 329 837 22,1948-04-02,True
+Maria,Samuelsson,Ängsgatan 4,Sandviken,95864,Sverige,SE,19730710-9259,46,+46 (0)47 04 94 79,1973-07-10,True
+Bertil,Olsson,Ringvägen 036,Halmstad,91152,Sverige,SE,19640207-1990,46,+46 (0)8 141 758 63,1964-02-07,True
+Angelica,Johansson,Ängsvägen 0,Stockholm,19560,Sverige,SE,19880813-2671,46,090-02 13 21,1988-08-13,True
+Jacob,Lundkvist,Kvarngatan 33,Lidköping,23915,Sverige,SE,19560203-8953,46,043-632 90 93,1956-02-03,True
+Marie,Paulsson,Villavägen 58,Södertälje,69432,Sverige,SE,19500809-2219,46,021-92 19 63,1950-08-09,True
+Birgitta,Nilsson,Skolgränd 43,Karlskrona,89247,Sverige,SE,19740925-3517,46,08-04 45 04,1974-09-25,True
+Ingvar,Nordström,Furugränd 868,Skellefteå,41886,Sverige,SE,19881117-2408,46,08-325 28 69,1988-11-17,True
+Nils,Karlsson,Skogsgatan 344,Stockholm,65787,Sverige,SE,19460424-8632,46,0543-840 41,1946-04-24,True
+Gunilla,Andersson,Grantorget 1,Uppsala,90738,Sverige,SE,19730511-7488,46,0881-56 21 86,1973-05-11,True
+Christoffer,Nilsson,Åkervägen 343,Borlänge,83819,Sverige,SE,19570103-3262,46,002-52 34 27,1957-01-03,True
+Maria,Söderlund,Ängsvägen 251,Eskilstuna,77394,Sverige,SE,19580529-3456,46,+46 (0)389 061 59,1958-05-29,True
+Peter,Andersson,Industrigatan 6,Jönköping,65509,Sverige,SE,19611121-6048,46,0131-887 52,1961-11-21,True
+Hans,Lindqvist,Fabriksgränd 3,Eskilstuna,19017,Sverige,SE,19430810-1182,46,08-509 35 27,1943-08-10,True
+Dan,Olsson,Backgatan 594,Mölndal,21819,Sverige,SE,19821207-9827,46,08-882 617 53,1982-12-07,True
+Sture,Oskarsson,Granstigen 347,Sandviken,35311,Sverige,SE,19420930-4738,46,+46 (0)8 785 617 83,1942-09-30,True
+Sofia,Andreasson,Kyrkogatan 1,Örnsköldsvik,75435,Sverige,SE,19741103-4719,46,+46 (0)351 739 84,1974-11-03,True
+Peter,Eriksson,Trädgårdsgatan 371,Linköping,18466,Sverige,SE,19871209-9268,46,020-764 95 13,1987-12-09,True
+Jakob,Persson,Skolgatan 9,Karlstad,79970,Sverige,SE,19870928-5029,46,0717-91 19 77,1987-09-28,True
+Birgitta,Johansson,Kyrkotorget 444,Sandviken,65158,Sverige,SE,19650313-7358,46,+46 (0)065 048 90,1965-03-13,True
+Margareta,Wallin,Strandvägen 566,Skövde,90252,Sverige,SE,19560101-4110,46,08-30 18 91,1956-01-01,True
+Karin,Lind,Storgränd 916,Mölndal,12839,Sverige,SE,19591020-8615,46,08-158 08 49,1959-10-20,True
+Johan,Söderberg,Industrigränd 643,Eskilstuna,48213,Sverige,SE,19590310-6776,46,0866-780 35,1959-03-10,True
+Lars,Pettersson,Kvarngatan 0,Jönköping,92721,Sverige,SE,19511126-0427,46,014-858 39 73,1951-11-26,True
+Maria,Pettersson,Granstigen 5,Karlstad,50332,Sverige,SE,19440107-1751,46,045-34 64 71,1944-01-07,True
+Valdemar,Larsson,Strandgatan 7,Alingsås,87945,Sverige,SE,19620409-6026,46,08-477 605 09,1962-04-09,True
+Claes,Johansson,Nygränd 744,Stockholm,31590,Sverige,SE,19481209-9481,46,08-229 56 44,1948-12-09,True
+Anna,Ohlsson,Villagatan 967,Örebro,96547,Sverige,SE,19431227-0050,46,+46 (0)24 66 14 14,1943-12-27,True
+Maria,Gustavsson,Skolvägen 06,Kristianstad,10957,Sverige,SE,19530112-1618,46,08-650 935 06,1953-01-12,True
+Harald,Sjögren,Industritorget 57,Växjö,93150,Sverige,SE,19680920-7335,46,+46 (0)071 172 07,1968-09-20,True
+Håkan,Johansson,Skolstigen 950,Landskrona,82197,Sverige,SE,19631129-7555,46,0299-53 69 12,1963-11-29,True
+Lars,Hedström,Furustigen 479,Kalmar,41316,Sverige,SE,19591020-9647,46,083-154 55 02,1959-10-20,True
+Robert,Eriksson,Skogsgränd 7,Trelleborg,94515,Sverige,SE,19850504-2900,46,08-897 61 14,1985-05-04,True
+Ingvar,Svensson,Aspvägen 163,Motala,52674,Sverige,SE,19800518-0043,46,007-79 85 18,1980-05-18,True
+Barbro,Petersson,Genstigen 5,Falun,10195,Sverige,SE,19610501-0189,46,+46 (0)75 76 77 89,1961-05-01,True
+Olof,Dahlgren,Granvägen 1,Umeå,63651,Sverige,SE,19691116-1840,46,08-039 56 93,1969-11-16,True
+Evert,Andersson,Granvägen 746,Varberg,83056,Sverige,SE,19501115-7085,46,08-08 08 91,1950-11-15,True
+Sofia,Svensson,Storgatan 7,Sandviken,17205,Sverige,SE,19581227-6963,46,021-02 78 64,1958-12-27,True
+Kent,Nilsson,Björktorget 6,Nyköping,51431,Sverige,SE,19571209-2410,46,08-39 63 56,1957-12-09,True
+Marie-Louise,Ström,Idrottstorget 7,Trelleborg,15915,Sverige,SE,19931126-0464,46,+46 (0)8 806 788 13,1993-11-26,True
+Helena,Sandberg,Idrottsgatan 9,Lidingö,32910,Sverige,SE,19920310-5744,46,0943-25 38 12,1992-03-10,True
+Maria,Andersson,Granvägen 814,Södertälje,66003,Sverige,SE,19880223-6094,46,0922-29 29 34,1988-02-23,True
+Jonas,Nyman,Bäckgatan 0,Piteå,71160,Sverige,SE,19571006-1968,46,08-886 14 01,1957-10-06,True
+Margareta,Andersson,Industrigränd 678,Uppsala,45574,Sverige,SE,19530325-9697,46,0863-268 51,1953-03-25,True
+Roger,Olsson,Furutorget 25,Helsingborg,65466,Sverige,SE,19510705-1344,46,+46 (0)8 384 539 26,1951-07-05,True
+Siv,Larsson,Parkgatan 9,Östersund,82499,Sverige,SE,19480826-4637,46,08-88 89 12,1948-08-26,True
+Sture,Eriksson,Parkgatan 3,Göteborg,58243,Sverige,SE,19510329-3306,46,0267-40 98 63,1951-03-29,True
+Johan,Lundqvist,Industristigen 94,Landskrona,59668,Sverige,SE,19600920-5676,46,+46 (0)90 17 87 66,1960-09-20,True
+Britt,Gustafsson,Ringstigen 7,Helsingborg,35151,Sverige,SE,19550819-0584,46,0349-169 09,1955-08-19,True
+Ida,Bengtsson,Trädgårdsvägen 3,Södertälje,80318,Sverige,SE,19541029-6108,46,069-054 93 04,1954-10-29,True
+Gun,Nilsson,Storgränd 82,Skövde,33938,Sverige,SE,19890227-5056,46,08-659 768 25,1989-02-27,True
+Karl,Karlsson,Ringtorget 8,Halmstad,13600,Sverige,SE,19490111-0045,46,+46 (0)584 542 30,1949-01-11,True
+Erik,Persson,Ängsgatan 851,Trollhättan,43915,Sverige,SE,19560706-2746,46,+46 (0)8 425 361 40,1956-07-06,True
+Åke,Jansson,Idrottstorget 41,Sundsvall,88000,Sverige,SE,19530416-9660,46,08-262 66 65,1953-04-16,True
+Lena,Nilsson,Strandstigen 29,Stockholm,67242,Sverige,SE,19600922-7120,46,+46 (0)8 973 929 50,1960-09-22,True
+Göran,Rosén,Bäckstigen 4,Örnsköldsvik,11701,Sverige,SE,19970621-0478,46,0132-96 75 09,1997-06-21,True
+Christer,Johansson,Kvarngatan 1,Borlänge,43299,Sverige,SE,19550809-5334,46,08-207 338 40,1955-08-09,True
+Ulf,Andersson,Skolstigen 47,Piteå,46238,Sverige,SE,19750506-3053,46,0038-61 00 21,1975-05-06,True
+Magnus,Larsson,Grangränd 901,Lund,57910,Sverige,SE,19680810-0441,46,08-133 87 22,1968-08-10,True
+Karolina,Hansen,Parkgatan 5,Uddevalla,84607,Sverige,SE,19700405-0706,46,08-85 70 35,1970-04-05,True
+Ronny,Karlsson,Stationsvägen 4,Trelleborg,77394,Sverige,SE,19781104-7239,46,08-44 05 08,1978-11-04,True
+Elsa,Andersson,Skogsvägen 0,Linköping,76581,Sverige,SE,19540725-5422,46,+46 (0)8 949 338 68,1954-07-25,True
+Rolf,Svensson,Kyrkvägen 37,Halmstad,13316,Sverige,SE,19631204-4268,46,08-183 685 58,1963-12-04,True
+Annie,Henriksson,Kvarnvägen 883,Lund,91638,Sverige,SE,19470704-3476,46,08-615 339 42,1947-07-04,True
+Hjalmar,Andersson,Björkgränd 0,Norrköping,24669,Sverige,SE,19431027-9633,46,+46 (0)08 87 14 32,1943-10-27,True
+Elisabet,Andreasson,Parkvägen 992,Norrköping,87460,Sverige,SE,19540717-5002,46,08-64 33 51,1954-07-17,True
+Susanne,Andersson,Kyrkogatan 5,Lidingö,55642,Sverige,SE,19940124-3703,46,08-821 92 05,1994-01-24,True
+Fredrik,Martinsson,Åkertorget 331,Karlskrona,53839,Sverige,SE,19641005-8964,46,+46 (0)01 82 84 25,1964-10-05,True
+Birgitta,Johansson,Grangatan 25,Nyköping,11897,Sverige,SE,19810126-1606,46,0578-150 14,1981-01-26,True
+Lennart,Magnusson,Aspgatan 43,Falun,13303,Sverige,SE,19550702-6264,46,+46 (0)49 89 69 96,1955-07-02,True
+Johan,Andersson,Genvägen 4,Ängelholm,58940,Sverige,SE,19580929-2799,46,+46 (0)813 411 28,1958-09-29,True
+Åke,Jonsson,Björkstigen 9,Trelleborg,96632,Sverige,SE,19600902-6713,46,005-157 68 68,1960-09-02,True
+Björn,Dahl,Åkergränd 8,Falun,67784,Sverige,SE,19420916-5988,46,+46 (0)8 963 520 77,1942-09-16,True
+Pontus,Johansson,Fabriksvägen 5,Ängelholm,92506,Sverige,SE,19570807-8492,46,08-060 36 56,1957-08-07,True
+Ulla-Britt,Gustafsson,Gengränd 872,Halmstad,58417,Sverige,SE,19700711-0839,46,0557-45 76 82,1970-07-11,True
+Kristian,Andersson,Villatorget 76,Lidköping,60921,Sverige,SE,19560222-8694,46,+46 (0)8 385 822 55,1956-02-22,True
+Sören,Andersson,Kyrkvägen 0,Borlänge,84916,Sverige,SE,19440325-8442,46,08-416 712 81,1944-03-25,True
+Maria,Johansson,Gengatan 8,Jönköping,89158,Sverige,SE,19600222-3137,46,+46 (0)83 28 34 88,1960-02-22,True
+Britt,Persson,Storgränd 73,Stockholm,15625,Sverige,SE,19820122-9906,46,+46 (0)71 51 75 25,1982-01-22,True
+Johan,Johannesson,Järnvägsvägen 3,Lidingö,44716,Sverige,SE,19770702-1061,46,08-971 885 38,1977-07-02,True
+Kristina,Danielsson,Åkergatan 517,Sandviken,82551,Sverige,SE,19640823-3414,46,065-34 65 13,1964-08-23,True
+Kerstin,Nilsson,Aspgränd 2,Varberg,91844,Sverige,SE,19610305-2537,46,+46 (0)8 190 207 67,1961-03-05,True
+Ann-Charlotte,Martinsson,Ringvägen 26,Skellefteå,52539,Sverige,SE,19990726-5518,46,046-535 43 65,1999-07-26,True
+Lars,Andersson,Stationsvägen 715,Trollhättan,49129,Sverige,SE,19840909-5814,46,+46 (0)85 15 53 22,1984-09-09,True
+Greta,Larsson,Furuvägen 878,Borås,41040,Sverige,SE,19730310-2859,46,08-318 21 23,1973-03-10,True
+Lena,Andersson,Ekstigen 863,Kristianstad,16799,Sverige,SE,19940919-7242,46,08-776 85 53,1994-09-19,True
+Leif,Johansson,Åkervägen 06,Ängelholm,99415,Sverige,SE,19960503-2897,46,+46 (0)8 222 527 44,1996-05-03,True
+Mona,Karlsson,Nygränd 3,Halmstad,17214,Sverige,SE,19400501-4671,46,0833-610 46,1940-05-01,True
+David,Andersson,Kyrkogatan 46,Borlänge,87460,Sverige,SE,19811107-9474,46,+46 (0)19 45 36 32,1981-11-07,True
+Morgan,Hedlund,Industrivägen 567,Växjö,52303,Sverige,SE,19680515-3482,46,08-510 94 36,1968-05-15,True
+Viktor,Hedman,Parkgatan 4,Örebro,43469,Sverige,SE,19970822-3079,46,08-36 38 81,1997-08-22,True
+Åke,Andersson,Villatorget 1,Halmstad,34430,Sverige,SE,19620826-5401,46,+46 (0)45 05 95 73,1962-08-26,True
+Anette,Jonasson,Kyrkotorget 91,Östersund,37101,Sverige,SE,19571023-9854,46,064-686 65 20,1957-10-23,True
+Johan,Lundström,Skolvägen 502,Örebro,85756,Sverige,SE,19940806-0737,46,08-506 72 95,1994-08-06,True
+Arne,Håkansson,Ringstigen 674,Luleå,85292,Sverige,SE,19570212-9966,46,08-007 219 22,1957-02-12,True
+Lennart,Ågren,Grantorget 89,Uppsala,83436,Sverige,SE,19830407-7157,46,08-84 08 94,1983-04-07,True
+Gerd,Karlsson,Skoltorget 6,Helsingborg,18889,Sverige,SE,19920527-5788,46,029-63 24 70,1992-05-27,True
+Daniel,Nilsson,Björktorget 8,Borås,94563,Sverige,SE,19420206-7779,46,08-342 72 20,1942-02-06,True
+Margareta,Larsson,Kyrkogränd 325,Jönköping,57888,Sverige,SE,19751222-9623,46,08-295 070 47,1975-12-22,True
+Karin,Nilsson,Backgränd 8,Östersund,70231,Sverige,SE,19620810-5726,46,+46 (0)701 194 13,1962-08-10,True
+Jesper,Ohlsson,Storgatan 95,Södertälje,44105,Sverige,SE,19970628-8637,46,+46 (0)426 169 59,1997-06-28,True
+Josefin,Holmström,Nystigen 059,Sandviken,81286,Sverige,SE,19921106-6525,46,+46 (0)329 307 10,1992-11-06,True
+Ebba,Jonsson,Aspstigen 2,Halmstad,44296,Sverige,SE,19790411-2503,46,+46 (0)203 182 21,1979-04-11,True
+Marie,Karlsson,Backvägen 013,Trollhättan,99548,Sverige,SE,19700215-2800,46,+46 (0)500 934 33,1970-02-15,True
+Anders,Karlsson,Furugatan 40,Östersund,43005,Sverige,SE,19850913-0981,46,0151-96 80 80,1985-09-13,True
+Daniel,Nyberg,Fabriksvägen 1,Karlskoga,30729,Sverige,SE,19870716-7766,46,+46 (0)8 124 197 42,1987-07-16,True
